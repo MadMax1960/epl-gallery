@@ -1,0 +1,4499 @@
+//030a_016.EPL -->                                                 0000
+Sae Roulette Lose
+
+//030a_018.EPL -->                                                 0001
+Sae Roulette Win
+
+//030a_065.EPL -->                                                 0002
+Sae Betting Table
+
+//030a_150.EPL -->                                                 0003
+Sae Betting Table (x2 Selected)
+
+//030a_151.EPL -->                                                 0004
+Sae Betting Table (Red Selected)
+
+//030a_152.EPL -->                                                 0005
+Sae Betting Table (Black Selected)
+
+//030a_153.EPL -->                                                 0006
+Sae Betting Table (x3 Selected)
+
+//030a_154.EPL -->                                                 0007
+Sae Betting Table (Black Selected)
+
+//030a_155.EPL -->                                                 0008
+Sae Betting Table (2nd Selected)
+
+//030a_156.EPL -->                                                 0009
+Sae Betting Table (3rd Selected)
+
+//030a_157.EPL -->                                                 0010
+Sae Betting Table (x6 Selected)
+
+//030a_158.EPL -->                                                 0011
+Sae Betting Table (1-6 Selected)
+
+//030a_159.EPL -->                                                 0012
+Sae Betting Table (7-12 Selected)
+
+//030a_160.EPL -->                                                 0013
+Sae Betting Table (13-18 Selected)
+
+//030a_161.EPL -->                                                 0014
+Sae Betting Table (19-24 Selected)
+
+//030a_162.EPL -->                                                 0015
+Sae Betting Table (25-30 Selected)
+
+//030a_163.EPL -->                                                 0016
+Sae Betting Table (31-38 Selected)
+
+//0337.EPL -->                                                     0017
+Sukukaja Effect
+
+//0474.EPL -->                                                     0018
+Okumura Backup Tube 1
+
+//0474_227.EPL -->                                                 0019
+Okumura Backup Tube 2
+
+//0491_a.EPL -->                                                   0020
+Dark Blue Wisps
+
+//0491_b.EPL -->                                                   0021
+(Unknown)
+
+//0491_c.EPL -->                                                   0022
+(Unknown)
+
+//arsene.EPL -->                                                   0023
+Persona Arsene
+
+//assist_blur.EPL -->                                              0024   
+Boiling Screen Blur
+
+//attack_hit.EPL -->                                               0025  
+Circle Of Speed Lines
+
+//be000_000.EPL -->                                                0026 
+Basic Lightning Bolt
+
+//be0314_0605_eff.EPL -->                                          0027       
+Circle of Black Speed Lines
+
+//be0314_605aura_start.EPL -->                                     0028            
+Red Screen + Camera Shake
+
+//be0314_608aura_loop.EPL -->                                      0029           
+Plane of Red Fire
+
+//be0498aura.EPL -->                                               0030  
+Small Purple Lightning Aura
+
+//be0644_barrier.EPL -->                                           0031      
+Final Guard Effect
+
+//be0653_blast_end.EPL -->                                         0032        
+Disaster Shadow Explosion Effect
+
+//be0674main.EPL -->                                               0033  
+Desperation Effect
+
+//bes0301_030.EPL -->                                              0034   
+Two Small Sparks
+
+//bes0301_0301.EPL -->                                             0035    
+Yellow Help Text
+
+//bes0302_010main.EPL -->                                          0036       
+Madarame Ink Puddle
+
+//bes0302_010shibuki.EPL -->                                       0037          
+Camera Shakes
+
+//bes0302_010up.EPL -->                                            0038     
+Camera Shakes
+
+//bes0302_011main.EPL -->                                          0039       
+Madarame Ink Puddle
+
+//bes0302_011up.EPL -->                                            0040     
+Camera Shakes
+
+//bes0302_011_kabe.EPL -->                                         0041        
+Madarame Large Ink Wall
+
+//bes0302_011_kabe2.EPL -->                                        0042         
+Camera Shakes
+
+//bes0302_043_front.EPL -->                                        0043         
+Madarame Screen Ink Splats
+
+//bes0302_043_penki.EPL -->                                        0044         
+Madarame Ink Brush
+
+//bes0302_044_front.EPL -->                                        0045         
+Madarame Screen Ink Splats
+
+//bes0302_044_penki.EPL -->                                        0046         
+Madarame Ink Brush
+
+//bes0302_044_penki2.EPL -->                                       0047          
+Madarame Ink Brush
+
+//bes0302_044_perpenki.EPL -->                                     0048            
+Madarame Ink Brush
+
+//bes0302_045_front.EPL -->                                        0049         
+Madarame Ink Blotch on Floor
+
+//bes030a_999_smk.EPL -->                                          0050       
+Camera Shakes
+
+//bes030a_999_smk2.EPL -->                                         0051        
+Madarame Ink Dots
+
+//bes030a_999_smk3.EPL -->                                         0052        
+Madarame Ink Dots
+
+//bes030a_999_smk4.EPL -->                                         0053        
+Madarame Ink Dots + Smoke
+
+//bes030a_999_smk5.EPL -->                                         0054        
+Camera Shakes
+
+//bes030a_smk.EPL -->                                              0055   
+Camera Shakes
+
+//bes030a_smk2.EPL -->                                             0056    
+Camera Shakes
+
+//bes030d_999_yure.EPL -->                                         0057        
+Camera Shake
+
+//bes030e_999_smk.EPL -->                                          0058       
+Camera Shakes
+
+//bes030e_999_smk2.EPL -->                                         0059        
+Madarame Ink Dots
+
+//bes030e_999_smk3.EPL -->                                         0060        
+Madarame Ink Dots
+
+//bes033e_900.EPL -->                                              0061   
+Lavenza Splitting to Twins
+
+//bes30a400.EPL -->                                                0062 
+(Crashes P5)
+
+//bes30e_731_aura.EPL -->                                          0063       
+(Crashes P5)
+
+//bes30e_731_auraimpact.EPL -->                                    0064             
+(Crashes P5)
+
+//bes30e_731_aurawall.EPL -->                                      0065           
+(Crashes P5)
+
+//bes30e_731_aurawave.EPL -->                                      0066           
+(Crashes P5)
+
+//bes30e_731_impact.EPL -->                                        0067         
+Purple Laser with Wind
+
+//bes30e_731_quake.EPL -->                                         0068        
+Camera Shake
+
+//bes30e_731_quake2.EPL -->                                        0069         
+Camera Shake
+
+//bes30e_731_tip.EPL -->                                           0070      
+(Crashes P5)
+
+//bes30e_741_aura.EPL -->                                          0071       
+(Crashes P5)
+
+//bes30e_751_aura.EPL -->                                          0072       
+(Crashes P5)
+
+//bes30e_751_yuka.EPL -->                                          0073       
+(Crashes P5)
+
+//bes_0000_500.EPL -->                                             0074    
+Circle of Speed Lines
+
+//bes_0000_501.EPL -->                                             0075    
+Circle of Speed Lines
+
+//bes_0066_999_a.EPL -->                                           0076      
+Fade to Black
+
+//bes_012-f.EPL -->                                                0077 
+Fire-colored Screen Flash
+
+//bes_012_tar_y.EPL -->                                            0078     
+Fire Smoke Explosion
+
+//bes_023_bkst.EPL -->                                             0079    
+Cartoon Smoke Effect
+
+//bes_0300_400_blk.EPL -->                                         0080        
+Thin Ink Brush
+
+//bes_0300_400_blk2.EPL -->                                        0081         
+Thin Ink Brush
+
+//bes_0300_500.EPL -->                                             0082    
+Circle of Speed Lines
+
+//bes_0301_033.EPL -->                                             0083    
+Rough Circle of Speed Lines
+
+//bes_0301_400rollcwn.EPL -->                                      0084           
+Kamoshida Crown Falling
+
+//bes_0301_400_hit.EPL -->                                         0085        
+Anime Hit Effect
+
+//bes_0301_400_kira.EPL -->                                        0086         
+Anime Hit Effect
+
+//bes_0301_400_line.EPL -->                                        0087         
+Rough Circle of Speed Lines
+
+//bes_0301_999.EPL -->                                             0088    
+Camera Shakes + Cartoon Smoke Effect
+
+//bes_0301_bkst.EPL -->                                            0089     
+Big Cartoon Smoke Effect
+
+//bes_0301_kkjmp.EPL -->                                           0090      
+Madarame Ink Brush
+
+//bes_0302_125.EPL -->                                             0091    
+Circle of Speed Lines
+
+//bes_0302_999.EPL -->                                             0092    
+Camera Shakes
+
+//bes_0302_baketu.EPL -->                                          0093       
+Madarame Bucket
+
+//bes_0302_hake.EPL -->                                            0094     
+Madarame Paint Brush
+
+//bes_0302_hake_An.EPL -->                                         0095        
+Madarame Paint Brush
+
+//bes_0302_hake_Reiji.EPL -->                                      0096           
+Madarame Paint Brush
+
+//bes_0302_hake_Yugo.EPL -->                                       0097          
+Madarame Paint Brush
+
+//bes_0304_006_item.EPL -->                                        0098         
+Glowing Gold Orb
+
+//bes_0304_007_item.EPL -->                                        0099         
+Glowing Gold Orb
+
+//bes_0304_008kira.EPL -->                                         0100        
+Cartoon Sparkles
+
+//bes_0304_008line.EPL -->                                         0101        
+God Rays
+
+//bes_0304_008_item.EPL -->                                        0102         
+Glowing Gold Orb
+
+//bes_0304_030item.EPL -->                                         0103        
+Falling Gold Orb
+
+//bes_0304_041_item.EPL -->                                        0104         
+Flying Gold Orb
+
+//bes_0304_043.EPL -->                                             0105    
+Big Smoke Explosion
+
+//bes_0304_043itemjump.EPL -->                                     0106            
+Jumping Gold Orb
+
+//bes_0304_043smoke.EPL -->                                        0107         
+Big Smoke Explosion
+
+//bes_0304_043_itemball.EPL -->                                    0108             
+Glowing Gold Orb
+
+//bes_0304_073.EPL -->                                             0109    
+Faded Circle of Speed Lines
+
+//bes_0304_076.EPL -->                                             0110    
+Faded Circle of Speed Lines
+
+//bes_0304_090hae.EPL -->                                          0111       
+(Unknown)
+
+//bes_0304_200_item.EPL -->                                        0112         
+Kaneshiro Flying Away
+
+//bes_0304_202.EPL -->                                             0113    
+Faded Circle of Speed Lines
+
+//bes_0304_234.EPL -->                                             0114    
+Faded Circle of Speed Lines
+
+//bes_0304_236_smoke.EPL -->                                       0115          
+Big Faded Smoke
+
+//bes_0304_241.EPL -->                                             0116    
+Faded Circle of Speed Lines
+
+//bes_0304_244hae.EPL -->                                          0117       
+(Unknown)
+
+//bes_0304_245.EPL -->                                             0118    
+Faded Circle of Speed Lines
+
+//bes_0304_245_smoke.EPL -->                                       0119          
+Wall of Smoke
+
+//bes_0304_299_item.EPL -->                                        0120         
+Kaneshiro Flying Away
+
+//bes_0304_500k_h.EPL -->                                          0121       
+Kaneshiro Left Vault Door Opening
+
+//bes_0304_500k_m.EPL -->                                          0122       
+Kaneshiro Right Vault Door Opening
+
+//bes_0304_500_smoke.EPL -->                                       0123          
+Jet of Smoke
+
+//bes_0304_990.EPL -->                                             0124    
+Smoke Explosion
+
+//bes_0304_994.EPL -->                                             0125    
+Kaneshiro Guard Shadow... pants?
+
+//bes_0304_bkst.EPL -->                                            0126     
+Cartoon Smoke Effect
+
+//bes_0304_smoke.EPL -->                                           0127      
+Smoke Puff
+
+//bes_0304_smoke2.EPL -->                                          0128       
+Smoke Puffs
+
+//bes_0304_syutyu.EPL -->                                          0129       
+Faded Circle of Speed Lines
+
+//bes_0306_005_bug.EPL -->                                         0130        
+Futaba Moral Support Glitch Effect
+
+//bes_0306_005_ring.EPL -->                                        0131         
+Futaba Scanner
+
+//bes_0306_005_ufo.EPL -->                                         0132        
+(Unknown)
+
+//bes_0306_217_fall.EPL -->                                        0133         
+Wakaba Pyramid Smoke Explosion
+
+//bes_0306_230.EPL -->                                             0134    
+Green Filter + Speed Lines
+
+//bes_0306_231.EPL -->                                             0135    
+Sad Futaba Hacking Something
+
+//bes_0306_232.EPL -->                                             0136    
+Happy Futaba Hacking Something
+
+//bes_0306_233.EPL -->                                             0137    
+Determined Futaba Hacking Something
+
+//bes_0306_234.EPL -->                                             0138    
+Confidant Futaba Hacking Something
+
+//bes_0306_401_fall.EPL -->                                        0139         
+Wakaba Pyramid Impact
+
+//bes_0306_401_hane.EPL -->                                        0140         
+Wakaba Crossbow Hit Effect
+
+//bes_0306_401_hit.EPL -->                                         0141        
+Wakaba Crossbow Fire Impact
+
+//bes_0306_501_bug.EPL -->                                         0142        
+Futaba Moral Support Glitch Effect
+
+//bes_0306_501_ring.EPL -->                                        0143         
+Futaba Scanner
+
+//bes_0306_501_ufo.EPL -->                                         0144        
+(Unknown)
+
+//bes_0306_600_blk.EPL -->                                         0145        
+Inky Black Smoke
+
+//bes_0306_701_fall.EPL -->                                        0146         
+Wakaba Pyramid Impact
+
+//bes_0306_701_hane.EPL -->                                        0147         
+Wakaba Crossbow Hit Effect
+
+//bes_0306_701_hit.EPL -->                                         0148        
+Wakaba Crossbow Fire Impact
+
+//bes_0306_999_blk2.EPL -->                                        0149         
+Big Inky Black Smoke
+
+//bes_0306_999_blk3.EPL -->                                        0150         
+Big Inky Black Smoke
+
+//bes_0306_blk1.EPL -->                                            0151     
+Big Inky Black Smoke
+
+//bes_0306_blk2.EPL -->                                            0152     
+Fast Inky Black Smoke
+
+//bes_0306_blk3.EPL -->                                            0153     
+Inky Black Smoke
+
+//bes_0306_line.EPL -->                                            0154     
+White Slash
+
+//bes_0306_line_402.EPL -->                                        0155         
+White Slash
+
+//bes_0306_shoot.EPL -->                                           0156      
+Yellow Dot + Camera Shake
+
+//bes_0306_syutyu.EPL -->                                          0157       
+Circle of Speed Lines
+
+//bes_0308_013.EPL -->                                             0158    
+Okumura Backup Tube
+
+//bes_0308_50.EPL -->                                              0159   
+Okumura Backup Tube
+
+//bes_030a_007.EPL -->                                             0160    
+Reserve Text Panel
+
+//bes_030a_050.EPL -->                                             0161    
+Sae Empty Beta Betting Panel
+
+//bes_030a_051.EPL -->                                             0162    
+Sae Beta Betting Panel (Place Your Bets!)
+
+//bes_030a_052.EPL -->                                             0163    
+Sae Empty Beta Betting Panel
+
+//bes_030a_053.EPL -->                                             0164    
+Sae Beta Betting Panel 3
+
+//bes_030a_054.EPL -->                                             0165    
+Sae Beta Betting Panel 4
+
+//bes_030a_055.EPL -->                                             0166    
+Sae Beta Betting Panel 5
+
+//bes_030a_107.EPL -->                                             0167    
+Dark Circle of Speed Lines
+
+//bes_030a_304scale.EPL -->                                        0168         
+(Crashes P5)
+
+//bes_030a_eff.EPL -->                                             0169    
+Fire + Confetti Spray
+
+//bes_030a_fill.EPL -->                                            0170     
+Darken Top Half of Screen
+
+//bes_030a_hubuki.EPL -->                                          0171       
+Two Small White Triangles
+
+//bes_030a_load_up.EPL -->                                         0172        
+(Crashes P5)
+
+//bes_030a_shake.EPL -->                                           0173      
+Camera Shake
+
+//bes_030b_005.EPL -->                                             0174    
+Low Detail Red Smoke
+
+//bes_030b_050.EPL -->                                             0175    
+Permanent White Screen
+
+//bes_030b_050flsh.EPL -->                                         0176        
+Fade to White
+
+//bes_030b_051flsh.EPL -->                                         0177        
+Fade to White
+
+//bes_030c_004_blur.EPL -->                                        0178         
+Blur Left Half of Screen
+
+//bes_030d_999.EPL -->                                             0179    
+Camera Shakes
+
+//bes_030d_999_smk.EPL -->                                         0180        
+Ink Dots
+
+//bes_030e_103_blk.EPL -->                                         0181        
+Big Camera Shakes
+
+//bes_030e_103_blk_ball.EPL -->                                    0182             
+Shido Flying Transformation
+
+//bes_030e_199_blk.EPL -->                                         0183        
+Big Ink Tornado
+
+//bes_030e_199_blk_2.EPL -->                                       0184          
+Big Ink Tornado 2
+
+//bes_030e_199_blk_3.EPL -->                                       0185          
+Big Ink Tornado 3
+
+//bes_030e_199_parts.EPL -->                                       0186          
+Shido Corpse
+
+//bes_030e_199_smk.EPL -->                                         0187        
+Cartoon Smoke Effect
+
+//bes_030e_199_smk2.EPL -->                                        0188         
+Faint Ink Dots
+
+//bes_030e_203_ball.EPL -->                                        0189         
+Big Ink Ball
+
+//bes_030e_203_blk.EPL -->                                         0190        
+Big Round Camera Shakes
+
+//bes_030e_303_blk.EPL -->                                         0191        
+Big Ink Tornado
+
+//bes_030e_420_charge.EPL -->                                      0192           
+Persona Fire Burst
+
+//bes_030e_420_gips.EPL -->                                        0193         
+Screws & Bolts Explosion
+
+//bes_030e_420_gips_parts.EPL -->                                  0194               
+(Unknown)
+
+//bes_030e_blur_15f.EPL -->                                        0195         
+Screen Edge Blur
+
+//bes_0311_000.EPL -->                                             0196    
+Will of the People
+
+//bes_0311_900.EPL -->                                             0197    
+Will of the People Charge
+
+//bes_0311_eff_000.EPL -->                                         0198        
+Will of the People
+
+//bes_0311_eff_100.EPL -->                                         0199        
+Will of the People Loop
+
+//bes_0311_eff_101.EPL -->                                         0200        
+Flat Will of the People Loop
+
+//bes_0311_eff_102.EPL -->                                         0201        
+Slow Will of the People Loop
+
+//bes_0311_eff_900.EPL -->                                         0202        
+Will of the People Charge
+
+//bes_0311_eff_901.EPL -->                                         0203        
+Will of the People
+
+//bes_0313_250_blood01.EPL -->                                     0204            
+Wall of Sparkles
+
+//bes_0313_250_blood02.EPL -->                                     0205            
+Wall of Sparkles
+
+//bes_0313_250_blood03.EPL -->                                     0206            
+Wall of Red Smoke
+
+//bes_0313_250_blood04.EPL -->                                     0207            
+Low Detail Black Smoke
+
+//bes_0313_250_blood05.EPL -->                                     0208            
+Low Detail Red Fire
+
+//bes_0313_250_blood_anim.EPL -->                                  0209               
+(Unknown)
+
+//bes_0313_250_zan01.EPL -->                                       0210          
+White Line Right
+
+//bes_0313_250_zan02.EPL -->                                       0211          
+White Line Down
+
+//bes_0313_250_zan03.EPL -->                                       0212          
+White Line Down
+
+//bes_0313_400rollcwn.EPL -->                                      0213           
+Kamoshida Crown Falling
+
+//bes_0313_400_blk.EPL -->                                         0214        
+Thin Ink Brush
+
+//bes_0313_400_blk2.EPL -->                                        0215         
+Thin Ink Brush
+
+//bes_0313_400_hit.EPL -->                                         0216        
+Anime Hit Effect
+
+//bes_0313_400_kira.EPL -->                                        0217         
+Anime Hit Effect
+
+//bes_0313_400_line.EPL -->                                        0218         
+Rough Circle of Speed Lines
+
+//bes_0313_999_beam.EPL -->                                        0219         
+Low Framerate Pink Beam
+
+//bes_0313_999_blur.EPL -->                                        0220         
+Quick Vertical Blur
+
+//bes_0313_999_chain.EPL -->                                       0221          
+Gold Chains & Gems Exploding
+
+//bes_0313_999_chain_par2.EPL -->                                  0222               
+Gold Chains & Gems Exploding 2
+
+//bes_0313_999_chain_per1.EPL -->                                  0223               
+Gold Chains & Gems Exploding 3
+
+//bes_0313_999_fill.EPL -->                                        0224         
+Fade to White
+
+//bes_0313_999_wind.EPL -->                                        0225         
+Purple Wind Stroke
+
+//bes_0313_shadow01.EPL -->                                        0226         
+Party Member Out
+
+//bes_0313_shadow02.EPL -->                                        0227         
+Party Member Out 2
+
+//bes_0314_002_blur.EPL -->                                        0228         
+Slight Screen Blur
+
+//bes_0314_0608_eff.EPL -->                                        0229         
+Rays of Control
+
+//bes_0314_200_blur.EPL -->                                        0230         
+Slight Screen Blur
+
+//bes_0314_501_eff1.EPL -->                                        0231         
+Faded Circle of Speed Lines
+
+//bes_0314_603_blur.EPL -->                                        0232         
+Slight Screen Blur
+
+//bes_0314_604_blur.EPL -->                                        0233         
+Slight Screen Blur
+
+//bes_0314_blur_loop.EPL -->                                       0234          
+Screen Blur Loop
+
+//bes_0314_fill_loop.EPL -->                                       0235          
+Permanent White Screen
+
+//bes_0314_weapon.EPL -->                                          0236       
+Wakaba Ballista Summon
+
+//bes_0341_110_explsn.EPL -->                                      0237           
+Disaster Shadow Summon
+
+//bes_0341_110_start.EPL -->                                       0238          
+Disaster Shadow Summon Explosion
+
+//bes_0341_999_a.EPL -->                                           0239      
+Fade to Black
+
+//bes_0342_999_a.EPL -->                                           0240      
+Fade to Black
+
+//bes_0343_999_a.EPL -->                                           0241      
+Fade to Black
+
+//bes_0344_999_a.EPL -->                                           0242      
+Fade to Black
+
+//bes_0359_500.EPL -->                                             0243    
+Happy Futaba Hacking Something
+
+//bes_0359_501.EPL -->                                             0244    
+Happy Futaba Hacking Something
+
+//bes_0367_750.EPL -->                                             0245    
+Happy Futaba Hacking Something
+
+//bes_304_244smk.EPL -->                                           0246      
+(Unknown)
+
+//bes_304_244_crash.EPL -->                                        0247         
+Popping Embers
+
+//bes_304_90smk.EPL -->                                            0248     
+(Unknown)
+
+//bes_308_600.EPL -->                                              0249   
+Darken Screen
+
+//bes_338_a.EPL -->                                                0250 
+Summoned Persona Effect
+
+//bes_338_b.EPL -->                                                0251 
+Summoned Persona Chains
+
+//bes_338_c.EPL -->                                                0252 
+Persona Skill Mask Fire
+
+//bes_338_d.EPL -->                                                0253 
+Summoned Persona Mask Fire
+
+//bes_33a_056.EPL -->                                              0254   
+Kougaon Effect
+
+//bes_33a_231_hit.EPL -->                                          0255       
+White Hit Flare
+
+//bes_33a_231_main.EPL -->                                         0256        
+Kasumi Showtime Slices
+
+//bes_33a_a.EPL -->                                                0257 
+Summoned Persona Effect
+
+//bes_33a_b.EPL -->                                                0258 
+Summoned Persona Chains
+
+//bes_33a_c.EPL -->                                                0259 
+Persona Skill Mask Fire
+
+//bes_33a_d.EPL -->                                                0260 
+Summoned Persona Mask Fire
+
+//bes_33a_gun1.EPL -->                                             0261    
+Anime Gun Hit Effect
+
+//bes_33a_zan.EPL -->                                              0262   
+Anime Hit Effect
+
+//bes_357_a.EPL -->                                                0263 
+Summoned Persona Effect
+
+//bes_357_b.EPL -->                                                0264 
+Summoned Persona Chains
+
+//bes_357_c.EPL -->                                                0265 
+Persona Skill Mask Fire
+
+//bes_357_d.EPL -->                                                0266 
+Summoned Persona Mask Fire
+
+//bes_358_223fray.EPL -->                                          0267       
+(Crashes P5)
+
+//bes_358_aza_1.EPL -->                                            0268     
+Yellow Constellations
+
+//bes_358_aza_10.EPL -->                                           0269      
+Red Constellations
+
+//bes_358_aza_2.EPL -->                                            0270     
+Yellow Constellations
+
+//bes_358_aza_3.EPL -->                                            0271     
+Pink Constellations
+
+//bes_358_aza_4.EPL -->                                            0272     
+Blue Constellations
+
+//bes_358_aza_5.EPL -->                                            0273     
+Yellow Constellations
+
+//bes_358_aza_6.EPL -->                                            0274     
+Green Constellations
+
+//bes_358_aza_7.EPL -->                                            0275     
+Purple Constellations
+
+//bes_358_aza_8.EPL -->                                            0276     
+Blue-White Constellations
+
+//bes_358_aza_9.EPL -->                                            0277     
+White Constellations
+
+//bes_358_charge.EPL -->                                           0278      
+(Crashes P5)
+
+//bes_35a_zan.EPL -->                                              0279   
+Anime Hit Effect
+
+//bes_998_fil.EPL -->                                              0280   
+Fade to B&W
+
+//bes_999_fil.EPL -->                                              0281   
+Fade to B&W
+
+//bes_agari.EPL -->                                                0282 
+Royal Sparkles
+
+//bes_agd.EPL -->                                                  0283
+Fire Explosion + Camera Shake
+
+//bes_an3_tear.EPL -->                                             0284    
+(Unknown)
+
+//bes_an5_heart.EPL -->                                            0285     
+Low Poly Heart
+
+//bes_ballista00.EPL -->                                           0286      
+Textureless Ballista
+
+//bes_bkst.EPL -->                                                 0287
+Cartoon Smoke Effect
+
+//bes_btn_touch.EPL -->                                            0288     
+Small Baton Touch Illustration
+
+//bes_btn_touch_yuka.EPL -->                                       0289          
+Baton Touch Level 1
+
+//bes_btn_touch_yuka2.EPL -->                                      0290           
+Baton Touch Level 2
+
+//bes_btn_touch_yuka3.EPL -->                                      0291           
+Baton Touch Level 3
+
+//bes_btn_touch_yuka4.EPL -->                                      0292           
+Baton Touch Level 4
+
+//bes_b_aseri.EPL -->                                              0293   
+Water Droplets
+
+//bes_b_boukyaku.EPL -->                                           0294      
+Confusion Effect
+
+//bes_b_bousou.EPL -->                                             0295    
+Desperation Loop
+
+//bes_b_burst.EPL -->                                              0296   
+Fire Explosion
+
+//bes_b_flame.EPL -->                                              0297   
+Burning Effect
+
+//bes_b_frozen.EPL -->                                             0298    
+Frozen Effect
+
+//bes_b_gekido.EPL -->                                             0299    
+Rage Effect
+
+//bes_b_hunnu.EPL -->                                              0300   
+Bad Negotiation Answer
+
+//bes_b_kuuhuku.EPL -->                                            0301     
+Shocked Negotiation Answer
+
+//bes_b_kyouhu.EPL -->                                             0302    
+Fearful Effect
+
+//bes_b_memai.EPL -->                                              0303   
+Dizzy Effect
+
+//bes_b_panic.EPL -->                                              0304   
+Panic Effect
+
+//bes_b_recover_m.EPL -->                                          0305       
+Harisen Recovery Hit
+
+//bes_b_sennou.EPL -->                                             0306    
+Brainwashed
+
+//bes_b_shock.EPL -->                                              0307   
+Shocked Effect
+
+//bes_b_sikiyoku.EPL -->                                           0308      
+Lustful Effect
+
+//bes_b_sitto.EPL -->                                              0309   
+Poisoned Effect
+
+//bes_b_stun.EPL -->                                               0310  
+Knockdown Effect
+
+//bes_b_suimin.EPL -->                                             0311    
+Sleep Effect
+
+//bes_b_zetsu_die.EPL -->                                          0312       
+Succumb to Fear
+
+//bes_b_zetubou.EPL -->                                            0313     
+Fear Effect
+
+//bes_challege_round_01.EPL -->                                    0314             
+Prison Labor Round 1
+
+//bes_challege_round_02.EPL -->                                    0315             
+Prison Labor Round 2
+
+//bes_challege_round_03.EPL -->                                    0316             
+Prison Labor Round 3
+
+//bes_challege_round_finish.EPL -->                                0317                 
+Prison Labor Complete
+
+//bes_challenge_result.EPL -->                                     0318            
+Prison Labor Dust
+
+//bes_chance.EPL -->                                               0319  
+Beta All-Out-Attack Spotlight
+
+//bes_chancefil.EPL -->                                            0320     
+Infinite Shooting Stars
+
+//bes_chance_solo.EPL -->                                          0321       
+Negotiation Spotlight
+
+//bes_cutin_usually.EPL -->                                        0322         
+Darts Critical Hit
+
+//bes_c_smk.EPL -->                                                0323 
+Small Smoke Explosion
+
+//bes_daifugou.EPL -->                                             0324    
+Thieves Den Cards Losing Money
+
+//bes_die.EPL -->                                                  0325
+Camera Shakes
+
+//bes_discover_2d.EPL -->                                          0326       
+Weakness Discovery Fail
+
+//bes_discover_star.EPL -->                                        0327         
+Weakness Discovery Star
+
+//bes_discover_success_2d.EPL -->                                  0328               
+Weakness Discovery Success
+
+//bes_eis.EPL -->                                                  0329
+Shadow Turn
+
+//bes_emydie.EPL -->                                               0330  
+Shadow Death
+
+//bes_escape.EPL -->                                               0331  
+Party Escape
+
+//bes_esc_bkst.EPL -->                                             0332    
+Party Escape Smoke
+
+//bes_fe_idou.EPL -->                                              0333   
+Party Smears
+
+//bes_fe_idou_fil.EPL -->                                          0334       
+Full Screen Motion Blur
+
+//bes_gekido.EPL -->                                               0335  
+Rage Effect
+
+//bes_get_per_camera.EPL -->                                       0336          
+Persona Get Camera
+
+//bes_get_per_pixy.EPL -->                                         0337        
+Pixie Persona Get
+
+//bes_get_per_rantan.EPL -->                                       0338          
+Pyro Jack Persona Get
+
+//bes_goudatu.EPL -->                                              0339   
+Item Find
+
+//bes_gun_blur.EPL -->                                             0340    
+Gun Menu Background Blur
+
+//bes_gun_shake.EPL -->                                            0341     
+Gun Fire Camera Shake
+
+//bes_hit_batting.EPL -->                                          0342       
+Generic Anime Hit Effect
+
+//bes_hit_batting_wall.EPL -->                                     0343            
+Generic Anime Hit Effect
+
+//bes_h_01.EPL -->                                                 0344
+Positive Negotiation
+
+//bes_h_02.EPL -->                                                 0345
+Negative Negotiation
+
+//bes_h_03.EPL -->                                                 0346
+Nervous Negotiation
+
+//bes_h_04.EPL -->                                                 0347
+Negotiation Success
+
+//bes_h_05.EPL -->                                                 0348
+Negotiation Talk
+
+//bes_h_06.EPL -->                                                 0349
+Confused Negotiation
+
+//bes_h_ge_peef.EPL -->                                            0350     
+Beta Persona Get
+
+//bes_h_ge_pein.EPL -->                                            0351     
+Persona Get + Camera
+
+//bes_h_ge_pekmn.EPL -->                                           0352      
+Beta Persona Get 2
+
+//bes_h_g_hpin.EPL -->                                             0353    
+HP Gain
+
+//bes_h_g_hpout.EPL -->                                            0354     
+HP Lose
+
+//bes_h_g_spin.EPL -->                                             0355    
+MP Gain
+
+//bes_h_g_spout.EPL -->                                            0356     
+MP Lose
+
+//bes_h_help.EPL -->                                               0357  
+Negotiation Start
+
+//bes_h_item.EPL -->                                               0358  
+Negotiation Drop Item
+
+//bes_h_item_c.EPL -->                                             0359    
+Negotiation Drop Common Item
+
+//bes_h_item_card.EPL -->                                          0360       
+Negotiation Drop Skill Card
+
+//bes_h_item_r.EPL -->                                             0361    
+Negotiation Drop Super Item
+
+//bes_h_item_uc.EPL -->                                            0362     
+Negotiation Drop Rare Item
+
+//bes_h_i_in.EPL -->                                               0363  
+Party Camera Cut
+
+//bes_h_k01.EPL -->                                                0364 
+Exclamation Mark
+
+//bes_h_k02.EPL -->                                                0365 
+Grrr...
+
+//bes_h_k03.EPL -->                                                0366 
+Blush
+
+//bes_h_k04.EPL -->                                                0367 
+Gasp
+
+//bes_h_k05.EPL -->                                                0368 
+Wince
+
+//bes_h_k06.EPL -->                                                0369 
+Ooh.....
+
+//bes_h_k07.EPL -->                                                0370 
+Heh
+
+//bes_h_k08.EPL -->                                                0371 
+(Unknown)
+
+//bes_h_okane.EPL -->                                              0372   
+Lose Money
+
+//bes_h_okane_s.EPL -->                                            0373     
+Lose Money (Small)
+
+//bes_h_shoot.EPL -->                                              0374   
+Bullet Effect
+
+//bes_h_sh_floor.EPL -->                                           0375      
+Bullet Hit Floor Effect
+
+//bes_h_spot.EPL -->                                               0376  
+Negotiation Selection Spotlight
+
+//bes_h_todome.EPL -->                                             0377    
+Hit Ink Splatter And Screen Blotches
+
+//bes_h_to_e.EPL -->                                               0378  
+Camera Cut Speed Lines
+
+//bes_h_to_e_akm.EPL -->                                           0379      
+Enemy Smears 1
+
+//bes_h_to_p.EPL -->                                               0380  
+Camera Cut Speed Lines
+
+//bes_h_to_p_akm.EPL -->                                           0381      
+Enemy Smears 2
+
+//bes_h_to_s_akm.EPL -->                                           0382      
+Enemy Smears 3
+
+//bes_j_esift_spt_n.EPL -->                                        0383         
+Futaba Spotlight
+
+//bes_j_esift_ufo_m.EPL -->                                        0384         
+(Crashes P5)
+
+//bes_j_esift_ufo_n.EPL -->                                        0385         
+Futaba Position Hack (Necronomicon)
+
+//bes_j_esift_ufo_p.EPL -->                                        0386         
+Futaba Position Hack (Prometheus)
+
+//bes_j_htb.EPL -->                                                0387 
+Futaba Moral Support
+
+//bes_j_htb_bitgp.EPL -->                                          0388       
+Futaba Skill Use
+
+//bes_j_otakara.EPL -->                                            0389     
+Futaba Item Find
+
+//bes_j_phack_ufo_m.EPL -->                                        0390         
+(Crashes P5)
+
+//bes_j_phack_ufo_n.EPL -->                                        0391         
+(Crashes P5)
+
+//bes_j_phack_ufo_p.EPL -->                                        0392         
+(Crashes P5)
+
+//bes_j_skim.EPL -->                                               0393  
+Futaba Item Skim Screen Effect 1
+
+//bes_j_skim2.EPL -->                                              0394   
+Futaba Item Skim Screen Effect 2
+
+//bes_j_skm_n.EPL -->                                              0395   
+Futaba Item Skim Beam
+
+//bes_j_skm_n_ring.EPL -->                                         0396        
+Futaba Item Skim Circles
+
+//bes_j_skm_sho.EPL -->                                            0397     
+Futaba Short Item Skim
+
+//bes_j_ufo_in.EPL -->                                             0398    
+Futaba Position Hack Start
+
+//bes_kakumei.EPL -->                                              0399   
+Thieves Den Card Tycoon
+
+//bes_kkjmp.EPL -->                                                0400 
+Party Member Jump
+
+//bes_miyako_oti.EPL -->                                           0401      
+Purple Screen Flow
+
+//bes_mono_blur.EPL -->                                            0402     
+Soft Vignette
+
+//bes_nyux.EPL -->                                                 0403
+White Heal Effect
+
+//bes_n_p_line.EPL -->                                             0404    
+White Floor Line
+
+//bes_n_ridatu.EPL -->                                             0405    
+Cartoon Smoke Effect
+
+//bes_perget_blue_ball.EPL -->                                     0406            
+Small Blue Orb
+
+//bes_perget_e_aura.EPL -->                                        0407         
+Flat Blue Glow
+
+//bes_perget_fire3.EPL -->                                         0408        
+Small Persona Fire
+
+//bes_perget_masklight.EPL -->                                     0409            
+Persona Get Mask Fire
+
+//bes_perget_mask_in.EPL -->                                       0410          
+Persona Mask Camera Shake
+
+//bes_perget_mask_in_exp.EPL -->                                   0411              
+Persona Mask Green Explosion
+
+//bes_perget_mask_out.EPL -->                                      0412           
+Persona Get Screen Particles
+
+//bes_perget_mask_out2.EPL -->                                     0413            
+Persona Get Screen Particles 2
+
+//bes_perget_mask_out_exp.EPL -->                                  0414               
+Persona Get Green Particles
+
+//bes_perget_p_aura.EPL -->                                        0415         
+Persona Get Aura
+
+//bes_perget_p_aura2.EPL -->                                       0416          
+Persona Get Glow
+
+//bes_per_get_blue_fil.EPL -->                                     0417            
+Persona Get Screen Coloring
+
+//bes_pinchfil.EPL -->                                             0418    
+Warning! Battle Red Vignette
+
+//bes_pursuit_line.EPL -->                                         0419        
+White Line
+
+//bes_ramdomfire_hit.EPL -->                                       0420          
+Gun Fire Effect
+
+//bes_ramdomfire_hit_sprd.EPL -->                                  0421               
+Multiple Bullet Holes Effect
+
+//bes_rec_hit.EPL -->                                              0422   
+Harisen Recovery Hit
+
+//bes_rec_hrsn.EPL -->                                             0423    
+Harisen Recovery Fan
+
+//bes_rec_sun.EPL -->                                              0424   
+Harisen Recovery Background
+
+//bes_refresh_main.EPL -->                                         0425        
+Refresh Skill Effect
+
+//bes_runsmoke.EPL -->                                             0426    
+Running Effect
+
+//bes_rush.EPL -->                                                 0427
+Rush Mode Speed Lines
+
+//bes_shel_bkst.EPL -->                                            0428     
+Cartoon Smoke Effect
+
+//bes_slowfilter.EPL -->                                           0429      
+Beta Slow-Mo Effect
+
+//bes_spade_three.EPL -->                                          0430       
+Circle of Speed Lines
+
+//bes_sp_bang_shita.EPL -->                                        0431         
+Gun Special 1
+
+//bes_sp_bang_ue.EPL -->                                           0432      
+Gun Special 2
+
+//bes_sp_ejct.EPL -->                                              0433   
+(Unknown)
+
+//bes_sp_hit.EPL -->                                               0434  
+Gun Special Smoke
+
+//bes_sp_landing.EPL -->                                           0435      
+Gun Special Finish
+
+//bes_sp_line.EPL -->                                              0436   
+Gun Special Black Speed Lines
+
+//bes_sp_red_shita.EPL -->                                         0437        
+Gun Special Red Speed Lines 1
+
+//bes_sp_red_ue.EPL -->                                            0438     
+Gun Special Red Speed Lines 2
+
+//bes_sp_yure.EPL -->                                              0439   
+Gun Special Camera Shake
+
+//bes_suikomi.EPL -->                                              0440   
+Air Vacuum Effect
+
+//bes_temptaiton_01.EPL -->                                        0441         
+Takamaki Temptation
+
+//bes_temptaiton_02.EPL -->                                        0442         
+(Crashes P5)
+
+//bes_tension_01.EPL -->                                           0443      
+(Crashes P5)
+
+//bes_tension_be0435.EPL -->                                       0444          
+Heat Riser
+
+//bes_test.EPL -->                                                 0445
+Low Detail Smoke
+
+//bes_tran1.EPL -->                                                0446 
+Shadow Summon
+
+//bes_tran1_houma.EPL -->                                          0447       
+Rare Shadow Summon
+
+//bes_tran1_unstable.EPL -->                                       0448          
+Disaster Shadow Summon
+
+//bes_tran2.EPL -->                                                0449 
+Shadow Bubbles
+
+//bes_tran3.EPL -->                                                0450 
+Shadow Summon Loop
+
+//bes_tran3_houma.EPL -->                                          0451       
+Rare Shadow Summon Loop
+
+//bes_tran3_unstable.EPL -->                                       0452          
+Disaster Shadow Summon Loop
+
+//bes_tran4.EPL -->                                                0453 
+Shadow Summon Explosion
+
+//bes_tran4_houma.EPL -->                                          0454       
+Rare Shadow Summon Explosion
+
+//bes_tran4_unstable.EPL -->                                       0455          
+Disaster Shadow Summon Explosion
+
+//bes_tran_a.EPL -->                                               0456  
+Shadow Bubbles
+
+//bes_tran_b.EPL -->                                               0457  
+Shadow Summon Loop
+
+//bes_tran_c.EPL -->                                               0458  
+Shadow Summon Explosion
+
+//bes_tran_d.EPL -->                                               0459  
+Shadow Summon
+
+//bes_ui_baton.EPL -->                                             0460    
+Baton Touch Text
+
+//bes_ui_e_advantage.EPL -->                                       0461          
+Unused Advantage Text
+
+//bes_ui_getpersona.EPL -->                                        0462         
+Persona Get Text
+
+//bes_ui_getpersona_exp.EPL -->                                    0463             
+Persona Get EXP Text
+
+//bes_ui_holdup.EPL -->                                            0464     
+Hold Up Text
+
+//bes_ui_pinch.EPL -->                                             0465    
+Warning Text
+
+//bes_ui_p_advantage.EPL -->                                       0466          
+Ambush Text
+
+//bes_ui_randam.EPL -->                                            0467     
+Bullet Hail Text
+
+//bes_ui_randam_ep.EPL -->                                         0468        
+(Crashes P5)
+
+//bes_victory_challenge.EPL -->                                    0469             
+(Crashes P5)
+
+//bes_victory_challenge_lav.EPL -->                                0470                 
+(Crashes P5)
+
+//bes_zou_l.EPL -->                                                0471 
+Warning Battle Spotlights
+
+//be_359_recognition_change.EPL -->                                0472                 
+(Crashes P5)
+
+//be_359_recognition_start.EPL -->                                 0473                
+(Crashes P5)
+
+//be_batontouch_arnd_fire_00.EPL -->                               0474                  
+Baton Touch Aura Level 1
+
+//be_batontouch_arnd_fire_01.EPL -->                               0475                  
+Baton Touch Aura Level 2
+
+//be_batontouch_arnd_fire_02.EPL -->                               0476                  
+Baton Touch Aura Level 3
+
+//be_batontouch_rising_fire.EPL -->                                0477                 
+Baton Touch Level Up 1
+
+//be_batontouch_rising_fire_00.EPL -->                             0478                    
+Baton Touch Level Up 2
+
+//be_batontouch_rising_fire_01.EPL -->                             0479                    
+Baton Touch Level Up 1
+
+//be_batontouch_rising_fire_02.EPL -->                             0480                    
+Baton Touch Level Up 3
+
+//be_emydie_unstable.EPL -->                                       0481          
+(Crashes P5)
+
+//be_houma_0.EPL -->                                               0482  
+Lose Money 1
+
+//be_houma_1.EPL -->                                               0483  
+Lose Money 2
+
+//be_houma_2.EPL -->                                               0484  
+Lose Money 3
+
+//be_syohatudo.EPL -->                                             0485    
+Dark Blue Camera Shakes
+
+//be_syohatudo_loki.EPL -->                                        0486         
+Dark Red Camera Shakes
+
+//be_syoloop.EPL -->                                               0487  
+Summoned Persona Effect
+
+//be_syoloop_b.EPL -->                                             0488    
+Summoned Persona Chains
+
+//be_syoloop_b_loki.EPL -->                                        0489         
+(Unknown)
+
+//be_syoloop_k.EPL -->                                             0490    
+Summoned Persona Mask Fire
+
+//be_syoloop_kout.EPL -->                                          0491       
+Persona Skill Mask Fire
+
+//be_syoloop_kout_loki.EPL -->                                     0492            
+Loki Skill Mask Fire
+
+//be_syoloop_k_loki.EPL -->                                        0493         
+Summoned Loki Mask Fire
+
+//be_syoloop_loki.EPL -->                                          0494       
+Summoned Loki Effect
+
+//be_syoperm.EPL -->                                               0495  
+Summoned Persona Effect
+
+//be_syoperm_loki.EPL -->                                          0496       
+Summoned Loki Effect
+
+//be_unstable.EPL -->                                              0497   
+Disaster Shadow Aura
+
+//be_unstable_drop.EPL -->                                         0498        
+(Crashes P5)
+
+//be_unstable_field.EPL -->                                        0499         
+Disaster Shadow Field Aura
+
+//bes0302_045_paint.EPL -->                                        0500         
+Madarame Ink Brush
+
+//bes0302_046_front.EPL -->                                        0501         
+Screen Ink Blotches
+
+//bes0302_046_paint.EPL -->                                        0502         
+Madarame Ink Brush
+
+//bes0302_046_paint2.EPL -->                                       0503          
+Thin Ink Brush
+
+//bes0302_150up.EPL -->                                            0504     
+Camera Shakes
+
+//bes0302_999_moya.EPL -->                                         0505        
+Camera Shakes
+
+//bes0302_999_moya2.EPL -->                                        0506         
+Ink Dots
+
+//bes0302_999_smoke.EPL -->                                        0507         
+Cartoon Smoke Effect
+
+//bes0302_999_yure.EPL -->                                         0508        
+Camera Shake
+
+//bes0308_052.EPL -->                                              0509   
+Okumura Backup Tube
+
+//bes0308_410.EPL -->                                              0510   
+(Unknown)
+
+//bes0308_430.EPL -->                                              0511   
+(Unknown)
+
+//bes0308_999_smk.EPL -->                                          0512       
+Ink Dots
+
+//bes0308_999_smk2.EPL -->                                         0513        
+Ink Dots
+
+//bes0308_999_smk5.EPL -->                                         0514        
+Ink Swirls
+
+//bes0308_smk.EPL -->                                              0515   
+Ink Swirls
+
+//bes0358_130fill.EPL -->                                          0516       
+Delayed Fade to Black
+
+//bes0358_130smk.EPL -->                                           0517      
+Big Ink Swirls
+
+//bes0358_130smk_loop.EPL -->                                      0518           
+Big Ink Swirls
+
+//bes0358_130smk_s.EPL -->                                         0519        
+Ink Swirls
+
+//bes0358_131smk.EPL -->                                           0520      
+Ink Dots
+
+//bes0358_131smk_end.EPL -->                                       0521          
+Big Ink Swirls
+
+//bes0358_930smk.EPL -->                                           0522      
+Big Ink Dots
+
+//bes0358_blur.EPL -->                                             0523    
+Distorted Screen Effect
+
+//bes0358_syokusyu_test.EPL -->                                    0524             
+(Crashes P5)
+
+//bghit.EPL -->                                                    0525
+Anime Hit Effect
+
+//bksk_aketi_b_cte.EPL -->                                         0526        
+Black Mask Akechi AoA Finisher
+
+//bksk_aketi_cte.EPL -->                                           0527      
+Prince Akechi AoA Finisher
+
+//bksk_an_cte.EPL -->                                              0528   
+Ann AoA Finisher
+
+//bksk_attack_cte.EPL -->                                          0529       
+Party AoA Smears + Hit Effects 1
+
+//bksk_attack_cte_nrb.EPL -->                                      0530           
+Party AoA Smears + Hit Effects 2
+
+//bksk_attack_cte_nrb_302.EPL -->                                  0531               
+Party AoA Finisher Red Background
+
+//bksk_attack_cte_nrb_v.EPL -->                                    0532             
+Twins AoA Smears + Hit Effects
+
+//bksk_attack_cte_v.EPL -->                                        0533         
+Twins AoA Transition Blue Background
+
+//bksk_attack_switch_boss.EPL -->                                  0534               
+Party AoA Transition (Boss)
+
+//bksk_attack_switch_kira.EPL -->                                  0535               
+Party AoA Transition (Shadows)
+
+//bksk_futaba_crcl.EPL -->                                         0536        
+(Crashes P5)
+
+//bksk_futaba_cte.EPL -->                                          0537       
+(Crashes P5)
+
+//bksk_futaba_internal.EPL -->                                     0538            
+Futaba AoA Inside Necronomicon
+
+//bksk_futaba_line.EPL -->                                         0539        
+Vertical Speed Lines
+
+//bksk_futaba_ufo_m.EPL -->                                        0540         
+(Crashes P5)
+
+//bksk_futaba_ufo_n.EPL -->                                        0541         
+(Crashes P5)
+
+//bksk_futaba_ufo_p.EPL -->                                        0542         
+(Crashes P5)
+
+//bksk_hero_cte.EPL -->                                            0543     
+Joker AoA Finisher
+
+//bksk_jump_cte.EPL -->                                            0544     
+Party AoA Mirror Break
+
+//bksk_jump_cte_v.EPL -->                                          0545       
+Twins AoA Mirror Break
+
+//bksk_jump_lc.EPL -->                                             0546    
+Twins AoA Caroline Jump
+
+//bksk_jump_lj.EPL -->                                             0547    
+Twins AoA Justine Jump
+
+//bksk_jump_smoke.EPL -->                                          0548       
+Party AoA Jump Smoke
+
+//bksk_lavenza_cte.EPL -->                                         0549        
+Lavenza AoA Finisher (Crashes P5)
+
+//bksk_makoto_cte.EPL -->                                          0550       
+Makoto AoA Finisher
+
+//bksk_morgana_chair_cte.EPL -->                                   0551              
+Morgana AoA Finisher Chair
+
+//bksk_morgana_cte.EPL -->                                         0552        
+Morgana AoA Finisher
+
+//bksk_morgana_hamaki_cte.EPL -->                                  0553               
+Morgana AoA Finisher Cigar
+
+//bksk_ranko_cte.EPL -->                                           0554      
+Haru AoA Finisher
+
+//bksk_reiji_cte.EPL -->                                           0555      
+Ryuji AoA Finisher
+
+//bksk_splatter.EPL -->                                            0556     
+Party AoA Enemy Blood Splatter
+
+//bksk_splatter_velvet.EPL -->                                     0557            
+Twins AoA Enemy Blood Splatter
+
+//bksk_uzuki_cte.EPL -->                                           0558      
+(Crashes P5)
+
+//bksk_velvet_cte.EPL -->                                          0559       
+Twins AoA Finisher
+
+//bksk_yugo_cte.EPL -->                                            0560     
+Yusuke AoA Finisher
+
+//buttonPush.EPL -->                                               0561  
+(Unknown)
+
+//buttonPushAttack.EPL -->                                         0562        
+Bullet Hail Fire Prompt
+
+//cam_quake.EPL -->                                                0563 
+Camera Shake
+
+//cell_in.EPL -->                                                  0564
+Fusion Alarm Fusion
+
+//coop_eff.EPL -->                                                 0565
+Confidant Screen Darken
+
+//coop_eff_00.EPL -->                                              0566   
+Confidant Screen Posterize
+
+//distortion.EPL -->                                               0567  
+Red Screen Distortion
+
+//ee0301_001.EPL -->                                               0568  
+Circle of Speed Lines
+
+//ee090_010.EPL -->                                                0569 
+Fusion Event Guillotine Sparks
+
+//ee090_011.EPL -->                                                0570 
+Fusion Event Ink Puddle
+
+//ee090_020.EPL -->                                                0571 
+Fusion Event Guillotine Loop
+
+//ee090_030.EPL -->                                                0572 
+Fusion Event Guillotine Fuse 1
+
+//ee090_040.EPL -->                                                0573 
+Fusion Event Guillotine Fuse 2
+
+//ee090_050.EPL -->                                                0574 
+Fusion Event Fusion
+
+//ee090_060.EPL -->                                                0575 
+Fusion Event Fusion Finish
+
+//ee090_200.EPL -->                                                0576 
+Low Detail Blood Spurt
+
+//ee091_010.EPL -->                                                0577 
+Delayed Camera Shake
+
+//ee091_020.EPL -->                                                0578 
+Red + Black Screen Splatters
+
+//ee092_010.EPL -->                                                0579 
+Fusion Event 4 Sacrifices
+
+//ee092_020.EPL -->                                                0580 
+Fusion Event Strengthen Finish
+
+//ee092_070.EPL -->                                                0581 
+Fusion Event 1 Sacrifice
+
+//ee092_080.EPL -->                                                0582 
+Fusion Event 2 Sacrifices
+
+//ee092_090.EPL -->                                                0583 
+Fusion Event 4 Sacrifices
+
+//ee092_100.EPL -->                                                0584 
+Fusion Event 3 Sacrifices
+
+//ee092_200.EPL -->                                                0585 
+Shadow Summon Loop
+
+//ee094_001.EPL -->                                                0586 
+Fusion Event Electric Chair
+
+//ee094_010.EPL -->                                                0587 
+Fusion Event Electric Chair Loop
+
+//ee094_020.EPL -->                                                0588 
+Fusion Event Itemization Result
+
+//ee100_001.EPL -->                                                0589 
+Red + Black Screen Splatters
+
+//ee100_002.EPL -->                                                0590 
+Shadow Aura
+
+//ee100_010.EPL -->                                                0591 
+Camera Shake
+
+//ee100_020.EPL -->                                                0592 
+Delayed Pink Flash
+
+//ee110_000.EPL -->                                                0593 
+Water Bucket Splash
+
+//ee110_010.EPL -->                                                0594 
+Water Puddle
+
+//ee110_020.EPL -->                                                0595 
+Water Stain
+
+//ee110_030.EPL -->                                                0596 
+Screen Vignette
+
+//ee110_040.EPL -->                                                0597 
+Water Droplets 1
+
+//ee110_050.EPL -->                                                0598 
+Water Droplets 2
+
+//ee111_000.EPL -->                                                0599 
+Water Droplets 3
+
+//ee112_000.EPL -->                                                0600 
+Water Bucket Splash
+
+//ee113_000.EPL -->                                                0601 
+Small Smoke
+
+//ee113_010.EPL -->                                                0602 
+(Unknown)
+
+//ee113_020.EPL -->                                                0603 
+Red Screen Vignette
+
+//ee113_030.EPL -->                                                0604 
+Pyramid Brick Crumble
+
+//ee113_040.EPL -->                                                0605 
+Cloud of Dust
+
+//ee117_011.EPL -->                                                0606 
+Blue Smoke + Dust + Flames 1
+
+//ee117_012.EPL -->                                                0607 
+Blue Smoke + Dust + Flames 2
+
+//ee117_020.EPL -->                                                0608 
+Mona Awakening Fire Explosion
+
+//ee117_030.EPL -->                                                0609 
+Mona Awakening Fire Loop
+
+//ee117_040.EPL -->                                                0610 
+Mona Awakening Anime Sparkle
+
+//ee117_041.EPL -->                                                0611 
+Mona Awakening Zorro Sword Trail
+
+//ee117_050.EPL -->                                                0612 
+Mona Awakening Shadow Summon
+
+//ee132_001.EPL -->                                                0613 
+Ryuji Awakening Screen Pump
+
+//ee132_002.EPL -->                                                0614 
+Ryuji Awakening Blue Tint
+
+//ee132_003.EPL -->                                                0615 
+(Unknown)
+
+//ee132_004.EPL -->                                                0616 
+Ryuji Awakening Blood Spill
+
+//ee132_010.EPL -->                                                0617 
+Ryuji Awakening Mask Blood
+
+//ee132_011.EPL -->                                                0618 
+Ryuji Awakening Fire Loop
+
+//ee132_012.EPL -->                                                0619 
+Ryuji Awakening Blue Orb Pulse
+
+//ee132_020.EPL -->                                                0620 
+Ryuji Awakening Wind + Camera Shake
+
+//ee132_030.EPL -->                                                0621 
+Ryuji Awakening Blue Tint + Camera Shake
+
+//ee132_031.EPL -->                                                0622 
+Ryuji Awakening Camera Shake
+
+//ee132_043.EPL -->                                                0623 
+Ryuji Awakening Dark Blue Tint
+
+//ee132_044.EPL -->                                                0624 
+Ryuji Awakening Chains
+
+//ee132_060.EPL -->                                                0625 
+Ryuji Awakening Aqua Tint
+
+//ee132_090.EPL -->                                                0626 
+Ryuji Awakening Shadow Summon
+
+//ee132_091.EPL -->                                                0627 
+Ryuji Awakening Shadow Aura
+
+//ee132_092.EPL -->                                                0628 
+Ryuji Awakening Berith Breath
+
+//ee157_010.EPL -->                                                0629 
+Ann Awakening Screen Pump
+
+//ee157_020.EPL -->                                                0630 
+Ann Awakening Blue Tint
+
+//ee157_030.EPL -->                                                0631 
+Ann Awakening Cuff Break
+
+//ee157_040.EPL -->                                                0632 
+Ann Awakening Cuff Flames
+
+//ee157_050.EPL -->                                                0633 
+Ann Awakening Blue Flash
+
+//ee157_051.EPL -->                                                0634 
+Ann Awakening Mask Blood
+
+//ee157_060.EPL -->                                                0635 
+Ann Awakening Floor Fire Loop
+
+//ee157_061.EPL -->                                                0636 
+Ann Awakening Back Fire Loop
+
+//ee157_062.EPL -->                                                0637 
+Ann Awakening Spiral Fire Loop
+
+//ee157_063.EPL -->                                                0638 
+Ann Awakening Blue Tint
+
+//ee157_064.EPL -->                                                0639 
+Ann Awakening Chains 1
+
+//ee157_065.EPL -->                                                0640 
+Ann Awakening Chains 2
+
+//ee157_066.EPL -->                                                0641 
+Ann Awakening Chains 3
+
+//ee157_070.EPL -->                                                0642 
+Ann Awakening Mask Fire Loop
+
+//ee157_080.EPL -->                                                0643 
+Ann Awakening Screen Pump
+
+//ee157_090.EPL -->                                                0644 
+Ann Awakening Shadow Summon
+
+//ee157_091.EPL -->                                                0645 
+Ann Awakening Floor Blood
+
+//ee157_092.EPL -->                                                0646 
+Ann Awakening Shadow Aura
+
+//ee157_100.EPL -->                                                0647 
+Ann Awakening Shadow Summon Explosion 1
+
+//ee157_110.EPL -->                                                0648 
+Ann Awakening Shadow Summon Explosion 2
+
+//ee157_120.EPL -->                                                0649 
+Ann Awakening Blue Screen Distortion 1
+
+//ee157_130.EPL -->                                                0650 
+Ann Awakening Blue Screen Distortion 2
+
+//ee169_010.EPL -->                                                0651 
+Screen Distortion
+
+//ee174_010.EPL -->                                                0652 
+Summoned Persona Effect
+
+//ee174_020.EPL -->                                                0653 
+Ball of Fire Loop
+
+//ee174_021.EPL -->                                                0654 
+Orange Screen Distortion
+
+//ee174_022.EPL -->                                                0655 
+Summoned Persona Chains 1
+
+//ee174_023.EPL -->                                                0656 
+Summoned Persona Chains 2
+
+//ee174_024.EPL -->                                                0657 
+Summoned Persona Chains 3
+
+//ee174_030.EPL -->                                                0658 
+Ball of Fire Ignite
+
+//ee174_040.EPL -->                                                0659 
+Ball of Fire Shoot
+
+//ee174_050.EPL -->                                                0660 
+Ball of Fire Explode
+
+//ee174_060.EPL -->                                                0661 
+Ball of Fire Shoot
+
+//ee174_061.EPL -->                                                0662 
+Orange Screen Tint
+
+//ee174_070.EPL -->                                                0663 
+Ball of Fire Explode + Smoke
+
+//ee174_080.EPL -->                                                0664 
+Mask Fire Burst
+
+//ee174_090.EPL -->                                                0665 
+Blue Smoke + Dust
+
+//ee174_100.EPL -->                                                0666 
+Levitating Dust 1
+
+//ee174_101.EPL -->                                                0667 
+Levitating Dust 2
+
+//ee174_102.EPL -->                                                0668 
+White Screen Tint
+
+//ee174_110.EPL -->                                                0669 
+Levitating Dust + Glow
+
+//ee174_120.EPL -->                                                0670 
+Floor Smears 1
+
+//ee174_121.EPL -->                                                0671 
+Floor Smears 2
+
+//ee174_130.EPL -->                                                0672 
+(Unknown)
+
+//ee189_001.EPL -->                                                0673 
+Black & White Distortion
+
+//ee208_010.EPL -->                                                0674 
+Yusuke Awakening Floor Fire Loop
+
+//ee208_011.EPL -->                                                0675 
+Yusuke Awakening Back Fire Loop
+
+//ee208_012.EPL -->                                                0676 
+Yusuke Awakening Spiral Fire Loop
+
+//ee208_013.EPL -->                                                0677 
+Yusuke Awakening Blue Tint
+
+//ee208_014.EPL -->                                                0678 
+Yusuke Awakening Chains
+
+//ee208_020.EPL -->                                                0679 
+Yusuke Awakening Screen Pump
+
+//ee208_030.EPL -->                                                0680 
+(Unknown)
+
+//ee208_040.EPL -->                                                0681 
+Yusuke Awakening Blue Tint
+
+//ee208_050.EPL -->                                                0682 
+(Unknown)
+
+//ee208_060.EPL -->                                                0683 
+Yusuke Awakening Fire Explosion
+
+//ee208_061.EPL -->                                                0684 
+Yusuke Awakening Mask Fire
+
+//ee208_062.EPL -->                                                0685 
+Yusuke Awakening Wind Ball
+
+//ee208_070.EPL -->                                                0686 
+Yusuke Awakening Dust + Wind
+
+//ee208_080.EPL -->                                                0687 
+Yusuke Awakening Motion Blur
+
+//ee208_090.EPL -->                                                0688 
+Yusuke Awakening Corner Blue Tint
+
+//ee208_100.EPL -->                                                0689 
+Yusuke Awakening Motion Blur
+
+//ee208_110.EPL -->                                                0690 
+Yusuke Awakening Shadow Summon Explosion
+
+//ee257_010.EPL -->                                                0691 
+Makoto Awakening Screen Pump 1
+
+//ee257_011.EPL -->                                                0692 
+Makoto Awakening Floor Tile Dust
+
+//ee257_020.EPL -->                                                0693 
+Makoto Awakening Motion Blur
+
+//ee257_030.EPL -->                                                0694 
+Makoto Awakening Blue Distortion
+
+//ee257_040.EPL -->                                                0695 
+Makoto Awakening Blue Tint + Wind
+
+//ee257_050.EPL -->                                                0696 
+Makoto Awakening Bottom Blue Tint 1
+
+//ee257_060.EPL -->                                                0697 
+Makoto Awakening Bottom Blue Tint 2
+
+//ee257_070.EPL -->                                                0698 
+Makoto Awakening Bottom Blue Tint 3
+
+//ee257_080.EPL -->                                                0699 
+Makoto Awakening Bottom Blue Tint 4
+
+//ee257_090.EPL -->                                                0700 
+Makoto Awakening Bottom Blue Tint 5
+
+//ee257_100.EPL -->                                                0701 
+Makoto Awakening Screen Pump 2
+
+//ee257_110.EPL -->                                                0702 
+Makoto Awakening Screen Pump 3
+
+//ee257_120.EPL -->                                                0703 
+Makoto Awakening Bottom Blue Tint 6
+
+//ee257_130.EPL -->                                                0704 
+Makoto Awakening Chains 1
+
+//ee257_131.EPL -->                                                0705 
+Makoto Awakening Chains 2
+
+//ee257_132.EPL -->                                                0706 
+Makoto Awakening Chains 3
+
+//ee257_133.EPL -->                                                0707 
+Makoto Awakening Chains 4
+
+//ee264_010.EPL -->                                                0708 
+Makoto Awakening Mask Blood
+
+//ee264_011.EPL -->                                                0709 
+Makoto Awakening Paper Money
+
+//ee264_020.EPL -->                                                0710 
+Makoto Awakening Screen Splatters
+
+//ee264_030.EPL -->                                                0711 
+Makoto Awakening Bottom Blue Tint 7
+
+//ee264_040.EPL -->                                                0712 
+Makoto Awakening Circle of Speed Lines
+
+//ee264_050.EPL -->                                                0713 
+Makoto Awakening Rain Drops?
+
+//ee299_010.EPL -->                                                0714 
+Crumbling Rocks + Light Beam
+
+//ee299_011.EPL -->                                                0715 
+Crumbling Rocks + Dust 1
+
+//ee299_012.EPL -->                                                0716 
+Crumbling Rocks + Dust 2
+
+//ee299_020.EPL -->                                                0717 
+Crumbling Rocks + Dust 3
+
+//ee299_030.EPL -->                                                0718 
+Wind + Dust 1
+
+//ee299_040.EPL -->                                                0719 
+Motion Blur
+
+//ee299_050.EPL -->                                                0720 
+Wind + Dust 2
+
+//ee299_060.EPL -->                                                0721 
+Wind + Dust 3
+
+//ee299_070.EPL -->                                                0722 
+Wind + Dust 4
+
+//ee299_080.EPL -->                                                0723 
+Wind + Dust 5
+
+//ee299_090.EPL -->                                                0724 
+Wind + Dust 6
+
+//ee299_100.EPL -->                                                0725 
+Wind + Dust 7
+
+//ee299_110.EPL -->                                                0726 
+Wind + Dust 8
+
+//ee299_120.EPL -->                                                0727 
+Wind + Dust 9
+
+//ee299_130.EPL -->                                                0728 
+Wind + Dust 10
+
+//ee299_140.EPL -->                                                0729 
+Screen Pump
+
+//ee299_141.EPL -->                                                0730 
+Circle of Speed Lines
+
+//ee302_010.EPL -->                                                0731 
+Futaba Awakening Glowing Orb
+
+//ee302_011.EPL -->                                                0732 
+Futaba Awakening UFO Wind
+
+//ee302_012.EPL -->                                                0733 
+Futaba Awakening Green Filter 1
+
+//ee302_013.EPL -->                                                0734 
+Futaba Awakening Spiral Fire Loop
+
+//ee302_014.EPL -->                                                0735 
+Futaba Awakening UFO Bottom Light
+
+//ee302_015.EPL -->                                                0736 
+Futaba Awakening Chains 1
+
+//ee302_016.EPL -->                                                0737 
+Futaba Awakening Green Glow
+
+//ee302_017.EPL -->                                                0738 
+Futaba Awakening Green Filter 2
+
+//ee302_018.EPL -->                                                0739 
+Futaba Awakening Chains 2
+
+//ee302_020.EPL -->                                                0740 
+Futaba Awakening First Person UFO Beam
+
+//ee302_030.EPL -->                                                0741 
+Futaba Awakening UFO Beam
+
+//ee302_050.EPL -->                                                0742 
+Futaba Awakening Green Bottom Tint 1
+
+//ee302_060.EPL -->                                                0743 
+Futaba Awakening Green Bottom Tint 2
+
+//ee302_070.EPL -->                                                0744 
+Futaba Awakening 2-Way UFO Wind
+
+//ee302_080.EPL -->                                                0745 
+Futaba Awakening UFO Wind Right
+
+//ee340_001.EPL -->                                                0746 
+Haru Awakening Screen Pump 1
+
+//ee340_010.EPL -->                                                0747 
+Haru Awakening Screen Pump 2
+
+//ee340_020.EPL -->                                                0748 
+Haru Awakening Smoke Trail
+
+//ee340_030.EPL -->                                                0749 
+Haru Awakening Fiance Electricity
+
+//ee340_040.EPL -->                                                0750 
+Haru Awakening Fiance Impact Wind
+
+//ee340_041.EPL -->                                                0751 
+Haru Awakening Fiance Impact Sparks
+
+//ee340_050.EPL -->                                                0752 
+Haru Awakening Spotlight
+
+//ee340_060.EPL -->                                                0753 
+Haru Awakening Floor Fire Loop
+
+//ee340_061.EPL -->                                                0754 
+Haru Awakening Back Fire Loop
+
+//ee340_070.EPL -->                                                0755 
+Haru Awakening Anime Spark
+
+//ee340_080.EPL -->                                                0756 
+Haru Awakening Rose Transition
+
+//ee340_081.EPL -->                                                0757 
+Haru Awakening Rose Loop 1
+
+//ee340_082.EPL -->                                                0758 
+Haru Awakening Rose Loop 2
+
+//ee340_090.EPL -->                                                0759 
+Haru Awakening Screen Pump 3
+
+//ee340_100.EPL -->                                                0760 
+Haru Awakening Fiance Impact Warp
+
+//ee340_110.EPL -->                                                0761 
+Haru Awakening Fiance Shadow Aura
+
+//ee344_010.EPL -->                                                0762 
+Slingshot Impact Spark
+
+//ee344_020.EPL -->                                                0763 
+Screen Pump
+
+//ee344_030.EPL -->                                                0764 
+Circle of Speed Lines
+
+//ee349_010.EPL -->                                                0765 
+Blood Dropping
+
+//ee349_020.EPL -->                                                0766 
+Blood Drops Loop
+
+//ee372_010.EPL -->                                                0767 
+Screen Distortion
+
+//ee422_009.EPL -->                                                0768 
+Akechi Breakdown Bottom Red Tint
+
+//ee422_010.EPL -->                                                0769 
+Akechi Breakdown Spiral Fire Loop
+
+//ee422_011.EPL -->                                                0770 
+Akechi Breakdown Back Fire Loop 1
+
+//ee422_012.EPL -->                                                0771 
+Akechi Breakdown Back Fire Loop 2
+
+//ee422_019.EPL -->                                                0772 
+Akechi Breakdown Back Fire Loop 3
+
+//ee422_020.EPL -->                                                0773 
+Akechi Breakdown Back Fire Loop 4
+
+//ee422_021.EPL -->                                                0774 
+(Unknown)
+
+//ee422_031.EPL -->                                                0775 
+(Unknown)
+
+//ee422_040.EPL -->                                                0776 
+Akechi Breakdown Ink Dots
+
+//ee422_041.EPL -->                                                0777 
+Akechi Breakdown Black Transition
+
+//ee422_050.EPL -->                                                0778 
+Akechi Breakdown Fire Explosion 1
+
+//ee422_051.EPL -->                                                0779  
+Akechi Breakdown Fire Explosion 2
+
+//ee422_060.EPL -->                                                0780 
+Akechi Breakdown Fire Loop
+
+//ee422_061.EPL -->                                                0781 
+Akechi Breakdown Wind 1
+
+//ee422_062.EPL -->                                                0782 
+Akechi Breakdown Wind 2
+
+//ee422_063.EPL -->                                                0783 
+Akechi Breakdown Spiral Fire Loop
+
+//ee422_080.EPL -->                                                0784 
+Akechi Breakdown Screen Pump
+
+//ee422_090.EPL -->                                                0785 
+Akechi Breakdown Mask Fire Loop
+
+//ee422_091.EPL -->                                                0786 
+Akechi Breakdown Mask Fire End
+
+//ee422_100.EPL -->                                                0787 
+Akechi Breakdown Small Fire
+
+//ee424_010.EPL -->                                                0788 
+Camera Shake
+
+//ee424_011.EPL -->                                                0789 
+Camera Shake + Dust
+
+//ee424_020.EPL -->                                                0790 
+Shadow Summon
+
+//ee424_030.EPL -->                                                0791 
+Red Flame Ball
+
+//ee424_040.EPL -->                                                0792 
+Wind Explosion
+
+//ee424_041.EPL -->                                                0793 
+Pyramid Floor Explosion
+
+//ee424_042.EPL -->                                                0794 
+Impact Dust + Smoke
+
+//ee424_043.EPL -->                                                0795 
+Halfcircle Smoke Generator
+
+//ee424_050.EPL -->                                                0796 
+Shido Daruma Eye
+
+//ee450_033.EPL -->                                                0797 
+Shadow Aura Bubbles
+
+//ee450_060.EPL -->                                                0798 
+Screen Distortion
+
+//ee450_070.EPL -->                                                0799 
+Screen Distortion + Ink Dots
+
+//ee450_080.EPL -->                                                0800 
+Ink Dots
+
+//ee450_090.EPL -->                                                0801 
+Ink Dots
+
+//ee450_100.EPL -->                                                0802 
+Small Ink Dots
+
+//ee450_110.EPL -->                                                0803 
+Small Ink Dots
+
+//ee450_210.EPL -->                                                0804 
+Fusion Event Guillotine Sparks
+
+//ee451_010.EPL -->                                                0805 
+Fusion Event Guillotine Sparks
+
+//ee451_020.EPL -->                                                0806 
+Fusion Event Guillotine Sparks
+
+//ee451_030.EPL -->                                                0807 
+Fusion Event Caroline Fuse
+
+//ee451_040.EPL -->                                                0808 
+Fusion Event Justine Fuse
+
+//ee451_050.EPL -->                                                0809 
+Fusion Event Lavenza Result
+
+//ee451_060.EPL -->                                                0810 
+Fusion Event Lavenza Fusion Smoke
+
+//ee459_010.EPL -->                                                0811 
+Satanael Summon Spiral Fire Loop
+
+//ee459_011.EPL -->                                                0812 
+Satanael Summon Back Fire Loop 1
+
+//ee459_012.EPL -->                                                0813 
+Satanael Summon Back Fire Glow
+
+//ee459_013.EPL -->                                                0814 
+Satanael Summon Bottom Blue Tint
+
+//ee459_014.EPL -->                                                0815 
+Satanael Summon Floor Fire Loop
+
+//ee459_015.EPL -->                                                0816 
+Satanael Summon Chains 1
+
+//ee459_016.EPL -->                                                0817 
+Satanael Summon Chains 2
+
+//ee459_020.EPL -->                                                0818 
+Satanael Summon Back Fire Loop 2
+
+//ee459_021.EPL -->                                                0819 
+Satanael Summon Chains 3
+
+//ee459_030.EPL -->                                                0820 
+Satanael Summon Blue Tint
+
+//ee459_040.EPL -->                                                0821 
+Satanael Summon Back Fire Loop 3
+
+//ee459_050.EPL -->                                                0822 
+Satanael Summon Fire Explosion
+
+//ee459_060.EPL -->                                                0823 
+Satanael Summon Flat Explosion
+
+//ee459_070.EPL -->                                                0824 
+(Unknown)
+
+//ee459_080.EPL -->                                                0825 
+(Unknown)
+
+//ee459_090.EPL -->                                                0826 
+Delayed Big Smoke
+
+//ee459_091.EPL -->                                                0827 
+Delayed Top-Right Sun Ray
+
+//ee459_100.EPL -->                                                0828 
+(Unknown)
+
+//ee459_110.EPL -->                                                0829 
+Point Light
+
+//ee459_111.EPL -->                                                0830 
+Delayed Top-Center Sun Ray
+
+//ee459_120.EPL -->                                                0831 
+(Unknown)
+
+//ee459_130.EPL -->                                                0832 
+(Unknown)
+
+//ee469_000.EPL -->                                                0833 
+Phantom Thieves Logo
+
+//ee469_010.EPL -->                                                0834 
+Phantom Thieves Logo Glow
+
+//ee500_001.EPL -->                                                0835 
+Conversation Exclamation Mark
+
+//ee500_002.EPL -->                                                0836 
+Conversation 2 Exclamation Marks
+
+//ee500_003.EPL -->                                                0837 
+Conversation Question Mark
+
+//ee500_004.EPL -->                                                0838 
+Conversation Exclamation + Question Mark
+
+//ee500_005.EPL -->                                                0839 
+Conversation Angry
+
+//ee500_006.EPL -->                                                0840 
+Conversation P4G Happy Indicator
+
+//ee500_007.EPL -->                                                0841 
+Conversation P4G Min Coop Point
+
+//ee500_008.EPL -->                                                0842 
+Conversation P4G Shocked Indicator
+
+//ee500_009.EPL -->                                                0843 
+Conversation Irritated
+
+//ee500_010.EPL -->                                                0844 
+Conversation Irritated
+
+//ee500_011.EPL -->                                                0845 
+Conversation 3 Rectangle Symbol
+
+//ee500_012.EPL -->                                                0846 
+Conversation 3 Rectangle Symbol
+
+//ee500_013.EPL -->                                                0847 
+Conversation Heart
+
+//ee500_014.EPL -->                                                0848 
+Conversation Sleepy
+
+//ee500_015.EPL -->                                                0849 
+Conversation Ringtone
+
+//ee500_016.EPL -->                                                0850 
+Conversation Sad
+
+//ee500_017.EPL -->                                                0851 
+Conversation Nervous
+
+//ee500_018.EPL -->                                                0852 
+(Unknown)
+
+//ee500_019.EPL -->                                                0853 
+Conversation P4G Gold Coop Point
+
+//ee500_020.EPL -->                                                0854 
+Conversation P4G Gold Coop Point
+
+//ee500_021.EPL -->                                                0855 
+Conversation P4G Max Coop Point
+
+//ee500_022.EPL -->                                                0856 
+Conversation Vertical Meow
+
+//ee500_023.EPL -->                                                0857 
+Conversation Horizontal Meow
+
+//ee500_024.EPL -->                                                0858 
+Conversation Horizontal Meow
+
+//ee500_025.EPL -->                                                0859 
+(Unknown)
+
+//ee500_026.EPL -->                                                0860 
+Conversation P4G Sad Indicator
+
+//ee500_027.EPL -->                                                0861 
+Conversation Eye Indicator
+
+//ee500_028.EPL -->                                                0862 
+Conversation Whisper Whisper
+
+//ee500_029.EPL -->                                                0863 
+Conversation Chitter Chatter
+
+//ee500_030.EPL -->                                                0864 
+Conversation Murmur
+
+//ee500_031.EPL -->                                                0865 
+Conversation Cloud
+
+//ee500_032.EPL -->                                                0866 
+Conversation Speech Bubble
+
+//ee500_033.EPL -->                                                0867 
+Conversation Used Speech Bubble
+
+//ee500_034.EPL -->                                                0868 
+Conversation White Card Bubble
+
+//ee500_035.EPL -->                                                0869 
+Conversation Blue Card Bubble
+
+//ee500_036.EPL -->                                                0870 
+Conversation Gray Card Bubble
+
+//ee500_037.EPL -->                                                0871 
+Conversation Gray Card Used Bubble
+
+//ee500_038.EPL -->                                                0872 
+Conversation Heart Speech Bubble
+
+//ee500_039.EPL -->                                                0873 
+Conversation Used Heart Speech Bubble
+
+//ee500_040.EPL -->                                                0874 
+Conversation Floating Card
+
+//ee500_041.EPL -->                                                0875 
+(Unknown)
+
+//ee500_042.EPL -->                                                0876 
+Conversation Grumble Grumble
+
+//ee500_043.EPL -->                                                0877 
+Conversation Mumble Mumble
+
+//ee500_044.EPL -->                                                0878 
+Conversation Blare Blare
+
+//ee500_045.EPL -->                                                0879 
+Conversation Nag Nag
+
+//ee500_046.EPL -->                                                0880 
+Conversation Bustle Bustle
+
+//ee500_047.EPL -->                                                0881 
+(Unknown)
+
+//ee500_048.EPL -->                                                0882 
+Conversation 3 Rectangle Symbol
+
+//ee500_049.EPL -->                                                0883 
+Conversation Confused
+
+//ee500_050.EPL -->                                                0884 
+(Unknown)
+
+//ee500_051.EPL -->                                                0885 
+Conversation Talking Indicator
+
+//ee501_000.EPL -->                                                0886 
+Confidant Le Mat
+
+//ee501_001.EPL -->                                                0887 
+Confidant Le Bateleur
+
+//ee501_002.EPL -->                                                0888 
+Confidant La Papesse
+
+//ee501_003.EPL -->                                                0889 
+Confidant L'Imperatrice
+
+//ee501_004.EPL -->                                                0890 
+Confidant L'Empereur
+
+//ee501_005.EPL -->                                                0891 
+Confidant Le Pape
+
+//ee501_006.EPL -->                                                0892 
+Confidant L'Amoureux
+
+//ee501_007.EPL -->                                                0893 
+Confidant Le Chariot
+
+//ee501_008.EPL -->                                                0894 
+Confidant La Justice
+
+//ee501_009.EPL -->                                                0895 
+Confidant L'Hermite
+
+//ee501_010.EPL -->                                                0896 
+Confidant La Roue De Fortune
+
+//ee501_011.EPL -->                                                0897 
+Confidant La Force
+
+//ee501_012.EPL -->                                                0898 
+Confidant Le Pendu
+
+//ee501_013.EPL -->                                                0899 
+Confidant Death
+
+//ee501_014.EPL -->                                                0900 
+Confidant Temperance
+
+//ee501_015.EPL -->                                                0901 
+Confidant Le Diable
+
+//ee501_016.EPL -->                                                0902 
+Confidant La Maison Dieu
+
+//ee501_017.EPL -->                                                0903 
+Confidant L'Etoile
+
+//ee501_018.EPL -->                                                0904 
+Confidant La Lune
+
+//ee501_019.EPL -->                                                0905 
+Confidant Le Soleil
+
+//ee501_020.EPL -->                                                0906 
+Confidant Le Jugement
+
+//ee501_021.EPL -->                                                0907 
+Confidant Le Monde
+
+//ee501_028.EPL -->                                                0908 
+Confidant La Foi (Reversed)
+
+//ee501_029.EPL -->                                                0909 
+Confidant Le Consultant
+
+//ee501_030.EPL -->                                                0910 
+Confidant La Foi
+
+//ee501_100.EPL -->                                                0911 
+Arcana Label FOOl
+
+//ee501_101.EPL -->                                                0912 
+Arcana Label FOOl
+
+//ee501_102.EPL -->                                                0913 
+Arcana Label FOOl
+
+//ee501_103.EPL -->                                                0914 
+Arcana Label FOOl
+
+//ee501_104.EPL -->                                                0915 
+Arcana Label FOOl
+
+//ee501_105.EPL -->                                                0916 
+Arcana Label FOOl
+
+//ee501_106.EPL -->                                                0917 
+Arcana Label FOOl
+
+//ee501_107.EPL -->                                                0918 
+Arcana Label FOOl
+
+//ee501_108.EPL -->                                                0919 
+Arcana Label FOOl
+
+//ee501_109.EPL -->                                                0920 
+Arcana Label CHARIOT
+
+//ee501_110.EPL -->                                                0921 
+Arcana Label CHARIOT
+
+//ee501_111.EPL -->                                                0922 
+Arcana Label CHARIOT
+
+//ee501_112.EPL -->                                                0923 
+Arcana Label CHARIOT
+
+//ee501_113.EPL -->                                                0924 
+Arcana Label CHARIOT
+
+//ee501_114.EPL -->                                                0925 
+Arcana Label CHARIOT
+
+//ee501_115.EPL -->                                                0926 
+Arcana Label CHARIOT
+
+//ee501_116.EPL -->                                                0927 
+Arcana Label WHEEL OF FORTUNE
+
+//ee501_117.EPL -->                                                0928 
+Arcana Label WHEEL OF FORTUNE
+
+//ee501_118.EPL -->                                                0929 
+Arcana Label WHEEL OF FORTUNE
+
+//ee501_119.EPL -->                                                0930 
+Arcana Label WHEEL OF FORTUNE
+
+//ee501_120.EPL -->                                                0931 
+Arcana Label WHEEL OF FORTUNE
+
+//ee501_121.EPL -->                                                0932 
+Arcana Label WHEEL OF FORTUNE
+
+//ee600_001.EPL -->                                                0933 
+Circle of Speed Lines
+
+//ee600_002.EPL -->                                                0934 
+Circle of Speed Lines
+
+//ee600_003.EPL -->                                                0935 
+Circle of Speed Lines
+
+//ee601_001.EPL -->                                                0936 
+Shadow Summon
+
+//ee601_002.EPL -->                                                0937 
+Shadow Bubbles
+
+//ee601_003.EPL -->                                                0938 
+Shadow Summon Loop
+
+//ee601_004.EPL -->                                                0939 
+Shadow Summon Explosion
+
+//ee602_001.EPL -->                                                0940 
+Smoke Puff
+
+//ee603_000.EPL -->                                                0941 
+Confidant Screen Posterize
+
+//ee603_001.EPL -->                                                0942 
+Confidant Screen Darken
+
+//ee604_000.EPL -->                                                0943 
+Shadow Death
+
+//ee608_000.EPL -->                                                0944 
+Shibuya 2D Backdrop TV Light
+
+//ee609_000.EPL -->                                                0945 
+Losing Persona Fire
+
+//ee610_000.EPL -->                                                0946 
+Puff of Steam
+
+//ee610_001.EPL -->                                                0947 
+Puff of Steam
+
+//ee613_000.EPL -->                                                0948 
+Ripples of Water
+
+//ee613_001.EPL -->                                                0949 
+Water Footstep
+
+//ee613_002.EPL -->                                                0950 
+Big Water Footstep
+
+//ee613_003.EPL -->                                                0951 
+(Unknown)
+
+//ee614_000.EPL -->                                                0952 
+Circle of Speed Lines
+
+//ee615_000.EPL -->                                                0953 
+Slow Red + Black Fire
+
+//ee615_001.EPL -->                                                0954 
+Slow Red + Black Fire Explosion
+
+//ee616_000.EPL -->                                                0955 
+Puffs of Smoke
+
+//ee616_001.EPL -->                                                0956 
+Small Floor Smoke
+
+//ee617_000.EPL -->                                                0957 
+Shining Confidant Card
+
+//ee618_000.EPL -->                                                0958 
+Confidant Card Get
+
+//ee619_000.EPL -->                                                0959 
+Foggy Breath
+
+//ee620_000.EPL -->                                                0960 
+Big Blue Glow
+
+//ee620_010.EPL -->                                                0961 
+Big Persona Spiral Fire
+
+//ee621_000.EPL -->                                                0962 
+Charged Holy Grail Laser Beam
+
+//ee621_010.EPL -->                                                0963 
+Holy Grail Laser Beam Trail
+
+//ee621_020.EPL -->                                                0964 
+Fade to White
+
+//ee622_000.EPL -->                                                0965 
+Bloody Rain
+
+//ee622_001.EPL -->                                                0966 
+(Unknown)
+
+//ee624_000.EPL -->                                                0967 
+Losing Persona Fire
+
+//ee626_000.EPL -->                                                0968 
+Yellow Glow + White Dots
+
+//ee627_000.EPL -->                                                0969 
+Bright Yellow Flash + Floor Glow
+
+//ee628_000.EPL -->                                                0970 
+Bright Yellow Flash + Floor Glow
+
+//ee629_000.EPL -->                                                0971 
+Bright Yellow Flash + Floor Glow
+
+//ee630_000.EPL -->                                                0972 
+Bright Yellow Flash + Floor Glow
+
+//ee632_011.EPL -->                                                0973 
+Big Dark Circle of Clouds
+
+//ee632_019.EPL -->                                                0974 
+Camera Shake
+
+//ee632_020.EPL -->                                                0975 
+Ball of Ink Swirls + Fade to Black
+
+//ee632_021.EPL -->                                                0976 
+Ink Swirl Tornado + Red Tendril
+
+//ee632_030.EPL -->                                                0977 
+Triangle of Black Smoke
+
+//ee632_040.EPL -->                                                0978 
+Bolts of Electricity
+
+//ee632_070.EPL -->                                                0979 
+3 Pink + Blue Lightning Strikes
+
+//ee632_071.EPL -->                                                0980 
+Circle of Black Smoke
+
+//ee632_080.EPL -->                                                0981 
+1 Pink + Blue Lightning Strike
+
+//ee632_090.EPL -->                                                0982 
+Billow of Smoke
+
+//ee633_000.EPL -->                                                0983 
+Cloud of Golden Leaves
+
+//ee633_001.EPL -->                                                0984 
+Blowing Golden Leaves
+
+//ee633_002.EPL -->                                                0985 
+Blowing Golden Leaves
+
+//ee633_003.EPL -->                                                0986 
+Bottom Yellow Glow
+
+//ee633_004.EPL -->                                                0987 
+Fade to Yellow
+
+//ee633_005.EPL -->                                                0988 
+Golden Explosion + Leaves
+
+//ee633_006.EPL -->                                                0989 
+Sphere of Golden Leaves + Glow
+
+//ee633_010.EPL -->                                                0990 
+Small Golden Flash + Glow
+
+//ee633_020.EPL -->                                                0991 
+Golden Lens Flare
+
+//ee633_030.EPL -->                                                0992 
+Jet of Wind
+
+//ee633_040.EPL -->                                                0993 
+Golden God Rays
+
+//ee633_050.EPL -->                                                0994 
+Golden 2D Glow
+
+//ee635_000.EPL -->                                                0995 
+Falling Snow
+
+//ee636_000.EPL -->                                                0996 
+Cigar Smoke Trail
+
+//ee637_000.EPL -->                                                0997 
+Dark Spiral of Fire
+
+//ee_syucyusen.EPL -->                                             0998    
+Circle of Speed Lines
+
+//e_rush.EPL -->                                                   0999
+Horizontal Speed Lines
+
+// ee1001_000.EPL -->                                              1000   
+Burst of Confetti
+
+// ee1001_010.EPL -->                                              1001   
+Anime Hit Effect
+
+// ee1004_000.EPL -->                                              1002   
+Feet Galaxy
+
+// ee1005_000.EPL -->                                              1003   
+Square Shadow
+
+// ee1005_001.EPL -->                                              1004   
+Square Shadow
+
+// ee1007_000.EPL -->                                              1005   
+Small Dust
+
+// ee1008_000.EPL -->                                              1006   
+(Crashes P5)
+
+// ee1008_001.EPL -->                                              1007   
+(Crashes P5)
+
+// ee1008_010.EPL -->                                              1008   
+Tower of Bubbles
+
+// ee1008_011.EPL -->                                              1009   
+Wall of Bubbles
+
+// ee1008_012.EPL -->                                              1010   
+Circle of Bubbles
+
+// ee1008_013.EPL -->                                              1011   
+Tower of Bubbles
+
+// ee1008_020.EPL -->                                              1012   
+Circling School of Fish
+
+// ee1008_021.EPL -->                                              1013   
+Circling School of Fish
+
+// ee1014_001.EPL -->                                              1014   
+Blue Flash
+
+// ee1014_002.EPL -->                                              1015   
+Blue Glow + God Rays
+
+// ee1015_000.EPL -->                                              1016   
+Anime Hit Effect + Yellow Trails
+
+// ee1015_010.EPL -->                                              1017   
+Circle of Wind
+
+// ee1015_020.EPL -->                                              1018   
+Red Cloud of Wind
+
+// ee1018_000.EPL -->                                              1019   
+(Unknown)
+
+// ee1019_000.EPL -->                                              1020   
+Small Puff of Smoke
+
+// ee1020_000.EPL -->                                              1021   
+Large Puff of Smoke
+
+// ee1021_000.EPL -->                                              1022   
+Rainbow Cloud + Wind Spiral
+
+// ee1021_001.EPL -->                                              1023   
+(Crashes P5)
+
+// ee1021_002.EPL -->                                              1024   
+(Crashes P5)
+
+// ee1021_010.EPL -->                                              1025   
+Distortion + Top Left Blue Glow
+
+// ee1021_011.EPL -->                                              1026   
+Slow White Flash
+
+// ee1021_012.EPL -->                                              1027   
+Fast White Flash
+
+// ee1021_013.EPL -->                                              1028   
+Top Left Dark Blue Tint
+
+// ee1021_014.EPL -->                                              1029   
+(Crashes P5)
+
+// ee1022_000.EPL -->                                              1030   
+(Crashes P5)
+
+// ee1023_000.EPL -->                                              1031   
+Rainbow Cloud + Wind Spiral
+
+// ee1023_010.EPL -->                                              1032   
+Rainbow Cloud + Spiral Fire Loop
+
+// ee1023_020.EPL -->                                              1033   
+Blue Screen Distortion
+
+// ee1024_000.EPL -->                                              1034   
+Slight Purple Tint
+
+// ee1026_000.EPL -->                                              1035   
+Small Smoke Plume
+
+// ee1026_010.EPL -->                                              1036   
+Small Smoke Plume
+
+// ee1027_000.EPL -->                                              1037   
+Shadow Death
+
+// ee1028_000.EPL -->                                              1038   
+Butterfly + Blue Sparkles
+
+// ee1029_000.EPL -->                                              1039   
+Big Purple Smoke Ring
+
+// ee1032_000.EPL -->                                              1040   
+Random Gold Sparkles
+
+// ee1033_000.EPL -->                                              1041   
+Line of Pink and Purple Dots
+
+// ee1033_010.EPL -->                                              1042   
+Line of Red Dots
+
+// ee1036_000.EPL -->                                              1043   
+(Unknown)
+
+// ee1037_000.EPL -->                                              1044   
+(Unknown)
+
+// ee1038_000.EPL -->                                              1045   
+(Unknown)
+
+// ee1039_000.EPL -->                                              1046   
+(Unknown)
+
+// ee1040_000.EPL -->                                              1047   
+(Unknown)
+
+// ee1041_000.EPL -->                                              1048   
+(Unknown)
+
+// ee1042_000.EPL -->                                              1049   
+(Unknown)
+
+// ee1043_000.EPL -->                                              1050   
+(Unknown)
+
+// ee1044_000.EPL -->                                              1051   
+Rainbow Cloud + Spiral Fire Loop
+
+// ee1044_010.EPL -->                                              1052   
+(Crashes P5)
+
+// ee1044_020.EPL -->                                              1053   
+Gold Light Flash + Sparkles
+
+// ee1045_000.EPL -->                                              1054   
+Losing Persona Fire
+
+// ee1045_010.EPL -->                                              1055   
+Ink Blots + Green Puddle
+
+// ee1046_000.EPL -->                                              1056   
+(Crashes P5)
+
+// ee1046_010.EPL -->                                              1057   
+(Crashes P5)
+
+// ee1046_020.EPL -->                                              1058   
+(Crashes P5)
+
+// ee1046_030.EPL -->                                              1059   
+Blue Dot
+
+// ee1046_031.EPL -->                                              1060   
+Blue Dot
+
+// ee1047_000.EPL -->                                              1061   
+Jose Mementos Flower Collect
+
+// ee1047_010.EPL -->                                              1062   
+Mementos Flower Get
+
+// ee1048_000.EPL -->                                              1063   
+(Crashes P5)
+
+// ee1049_000.EPL -->                                              1064   
+TV Static
+
+// ee1050_000.EPL -->                                              1065   
+(Crashes P5)
+
+// ee1050_010.EPL -->                                              1066   
+(Crashes P5)
+
+// ee1050_020.EPL -->                                              1067   
+(Crashes P5)
+
+// ee1050_030.EPL -->                                              1068   
+Ink Swirls
+
+// ee1050_040.EPL -->                                              1069   
+(Crashes P5)
+
+// ee1050_050.EPL -->                                              1070   
+Cartoon Smoke Puff
+
+// ee1051_000.EPL -->                                              1071   
+Ball of Persona Fire
+
+// ee1051_010.EPL -->                                              1072   
+(Crashes P5)
+
+// ee1052_000.EPL -->                                              1073   
+Jose Firecracker Explosion
+
+// ee1052_010.EPL -->                                              1074   
+(Crashes P5)
+
+// ee1053_000.EPL -->                                              1075   
+Screen Pump
+
+// ee1054_000.EPL -->                                              1076   
+(Crashes P5)
+
+// ee1055_000.EPL -->                                              1077   
+Reddish Smoke
+
+// ee1056_000.EPL -->                                              1078   
+Cum Puddle
+
+// ee1056_010.EPL -->                                              1079   
+(Crashes P5)
+
+// ee1056_020.EPL -->                                              1080   
+Burst of Wind
+
+// ee1056_030.EPL -->                                              1081   
+Wind Blade
+
+// ee1056_040.EPL -->                                              1082   
+Pyramid Brick Crumble
+
+// ee1057_010.EPL -->                                              1083   
+(Crashes P5)
+
+// ee1057_020.EPL -->                                              1084   
+Extreme Camera Zoom
+
+// ee1057_030.EPL -->                                              1085   
+White Screen
+
+// ee1059_000.EPL -->                                              1086   
+Camera Shutter
+
+// ee1060_000.EPL -->                                              1087   
+Gold Distortion
+
+// ee1061_000.EPL -->                                              1088   
+Exclamation Mark
+
+// ee1061_010.EPL -->                                              1089   
+Screen Splatters
+
+// ee1061_020.EPL -->                                              1090   
+Ink Splurt
+
+// ee1062_000.EPL -->                                              1091   
+Lightning Flashes
+
+// ee1062_010.EPL -->                                              1092   
+Question Mark
+
+// ee1062_020.EPL -->                                              1093   
+Anime Hit Effect
+
+// ee1062_030.EPL -->                                              1094   
+Flashing 2D Stars
+
+// ee1062_040.EPL -->                                              1095   
+Smoke with Electricity Bolts
+
+// ee1062_041.EPL -->                                              1096   
+Smoke with Electricity Bolts
+
+// ee1064_000.EPL -->                                              1097   
+Multiple Sword Slashes
+
+// ee1064_001.EPL -->                                              1098   
+Small Flashing Balls of Energy
+
+// ee1064_010.EPL -->                                              1099   
+(Crashes P5)
+
+// ee1064_020.EPL -->                                              1100   
+Pink Splashes
+
+// ee1064_021.EPL -->                                              1101   
+Pink Splashes
+
+// ee1064_022.EPL -->                                              1102   
+Pink Splashes
+
+// ee1065_000.EPL -->                                              1103   
+(Crashes P5)
+
+// ee1067_000.EPL -->                                              1104   
+(Crashes P5)
+
+// ee1067_010.EPL -->                                              1105   
+(Unknown)
+
+// ee1068_000.EPL -->                                              1106   
+(Crashes P5)
+
+// ee1068_010.EPL -->                                              1107   
+(Crashes P5)
+
+// ee1068_020.EPL -->                                              1108   
+Cartoon Smoke Effect
+
+// ee1069_000.EPL -->                                              1109   
+(Crashes P5)
+
+// ee1070_000.EPL -->                                              1110   
+(Crashes P5)
+
+// ee1071_000.EPL -->                                              1111   
+Red Rain
+
+// ee1072_000.EPL -->                                              1112   
+Fusion Alarm Fuse 1
+
+// ee1072_010.EPL -->                                              1113   
+Fusion Alarm Fuse 2
+
+// ee1072_020.EPL -->                                              1114   
+Fusion Alarm Fusion
+
+// ee1073_000.EPL -->                                              1115   
+Fusion Alarm 1 Sacrifice
+
+// ee1073_010.EPL -->                                              1116   
+Fusion Alarm Strengthen Finish
+
+// ee1074_000.EPL -->                                              1117   
+Fusion Alarm Itemization Finish
+
+// ee1075_000.EPL -->                                              1118   
+(Unknown)
+
+// ee1075_010.EPL -->                                              1119   
+Chainsaw Blade
+
+// ee1075_020.EPL -->                                              1120   
+Small Anime Hit Effect
+
+// ee1076_000.EPL -->                                              1121   
+(Crashes P5)
+
+// ee1077_000.EPL -->                                              1122   
+Blue Glow
+
+// ee1077_010.EPL -->                                              1123   
+Blue Sparkles
+
+// ee1078_000.EPL -->                                              1124   
+Bright Lens Flare
+
+// ee1078_001.EPL -->                                              1125   
+Gold Glowing Triangle
+
+// ee1079_000.EPL -->                                              1126   
+(Crashes P5)
+
+// ee1080_010.EPL -->                                              1127   
+TV Static
+
+// ee1080_020.EPL -->                                              1128   
+(Crashes P5)
+
+// ee2000_000.EPL -->                                              1129   
+Screen Pump
+
+// ee2000_010.EPL -->                                              1130   
+Snowfall
+
+// ee2000_011.EPL -->                                              1131   
+Updrift of Snow
+
+// ee2000_012.EPL -->                                              1132   
+Snowfall + Wind from Right
+
+// ee2000_020.EPL -->                                              1133   
+(Unknown)
+
+// ee2000_021.EPL -->                                              1134   
+(Unknown)
+
+// ee2000_022.EPL -->                                              1135   
+(Unknown)
+
+// ee2000_023.EPL -->                                              1136   
+(Unknown)
+
+// ee2000_030.EPL -->                                              1137   
+Royal Shadow Summon
+
+// ee2000_031.EPL -->                                              1138   
+Royal Shadow Summon
+
+// ee2000_040.EPL -->                                              1139   
+(Unknown)
+
+// ee2000_050.EPL -->                                              1140   
+Spark + Ink Splurt
+
+// ee2000_060.EPL -->                                              1141   
+Ink Dots
+
+// ee2000_061.EPL -->                                              1142   
+(Unknown)
+
+// ee2000_062.EPL -->                                              1143   
+(Unknown)
+
+// ee2000_063.EPL -->                                              1144   
+(Unknown)
+
+// ee2000_070.EPL -->                                              1145   
+Snowflakes on Ground
+
+// ee2000_071.EPL -->                                              1146   
+Semi-circle White Glow
+
+// ee2000_072.EPL -->                                              1147   
+Slow Snowfall
+
+// ee2010_000.EPL -->                                              1148   
+Kasumi Awakening Screen Pump 1
+
+// ee2010_001.EPL -->                                              1149   
+Kasumi Awakening Screen Pump 2
+
+// ee2010_002.EPL -->                                              1150   
+Kasumi Awakening Screen Pump 3
+
+// ee2010_010.EPL -->                                              1151   
+(Unknown)
+
+// ee2010_011.EPL -->                                              1152   
+Kasumi Awakening Blue Tint
+
+// ee2010_020.EPL -->                                              1153   
+Kasumi Awakening Black Background
+
+// ee2010_021.EPL -->                                              1154   
+Kasumi Awakening Speed Lines 1
+
+// ee2010_022.EPL -->                                              1155   
+Kasumi Awakening Speed Lines 2
+
+// ee2010_023.EPL -->                                              1156   
+Kasumi Awakening Fire Loop 1
+
+// ee2010_024.EPL -->                                              1157   
+Kasumi Awakening Chains 1
+
+// ee2010_025.EPL -->                                              1158   
+Kasumi Awakening Bottom Blue Tint 1
+
+// ee2010_026.EPL -->                                              1159   
+Kasumi Awakening Fire Loop 2
+
+// ee2010_027.EPL -->                                              1160   
+Kasumi Awakening Chains 2
+
+// ee2010_031.EPL -->                                              1161   
+Kasumi Awakening Bottom Blue Tint 2
+
+// ee2010_032.EPL -->                                              1162   
+Kasumi Awakening Back Fire Loop 1
+
+// ee2010_034.EPL -->                                              1163   
+Kasumi Awakening Left Blue Tint
+
+// ee2010_035.EPL -->                                              1164   
+Kasumi Awakening Spiral Fire 1
+
+// ee2010_036.EPL -->                                              1165   
+Kasumi Awakening Spiral Fire 2
+
+// ee2010_037.EPL -->                                              1166   
+Kasumi Awakening Spiral Fire 3
+
+// ee2010_038.EPL -->                                              1167   
+Kasumi Awakening Screen Pump 4
+
+// ee2010_039.EPL -->                                              1168   
+Kasumi Awakening Back Fire Loop 2
+
+// ee2010_040.EPL -->                                              1169   
+(Unknown)
+
+// ee2010_050.EPL -->                                              1170   
+(Unknown)
+
+// ee2010_051.EPL -->                                              1171   
+Kasumi Awakening Mask Fire 1
+
+// ee2010_052.EPL -->                                              1172   
+(Unknown)
+
+// ee2010_053.EPL -->                                              1173   
+Kasumi Awakening Blue Flash 1
+
+// ee2010_054.EPL -->                                              1174   
+Kasumi Awakening Blue Flash 2
+
+// ee2010_055.EPL -->                                              1175   
+Kasumi Awakening Mask Fire 2
+
+// ee2010_056.EPL -->                                              1176   
+Kasumi Awakening Mask Fire 3
+
+// ee2010_057.EPL -->                                              1177   
+(Unknown)
+
+// ee2010_058.EPL -->                                              1178   
+Kasumi Awakening Blue Flash 3
+
+// ee2010_060.EPL -->                                              1179   
+Kasumi Awakening Mask Fire 4
+
+// ee2010_062.EPL -->                                              1180   
+(Unknown)
+
+// ee2010_063.EPL -->                                              1181   
+Kasumi Awakening Sword Appear
+
+// ee2010_064.EPL -->                                              1182   
+Kasumi Awakening Blue Flash 4
+
+// ee2010_065.EPL -->                                              1183   
+Kasumi Awakening Hairtie Appear
+
+// ee2010_070.EPL -->                                              1184   
+Kasumi Awakening Back Fire Loop 3
+
+// ee2010_071.EPL -->                                              1185   
+Kasumi Awakening Wind 1
+
+// ee2010_080.EPL -->                                              1186   
+Kasumi Awakening Bottom Blue Tint 3
+
+// ee2010_081.EPL -->                                              1187   
+Kasumi Awakening Bottom Blue Tint 4
+
+// ee2010_082.EPL -->                                              1188   
+Kasumi Awakening Dark Blue Tint
+
+// ee2010_083.EPL -->                                              1189   
+Kasumi Awakening Fade to Blue
+
+// ee2010_084.EPL -->                                              1190   
+Kasumi Awakening Screen Pump 5
+
+// ee2010_090.EPL -->                                              1191   
+(Unknown)
+
+// ee2010_091.EPL -->                                              1192   
+Kasumi Awakening Spotlight Glow
+
+// ee2010_092.EPL -->                                              1193   
+(Unknown)
+
+// ee2010_100.EPL -->                                              1194   
+Kasumi Awakening Spotlight
+
+// ee2010_110.EPL -->                                              1195   
+Kasumi Awakening Wind 2
+
+// ee2020_001.EPL -->                                              1196   
+Green Ink Spurt
+
+// ee2020_010.EPL -->                                              1197   
+(Crashes P5)
+
+// ee2020_011.EPL -->                                              1198   
+(Crashes P5)
+
+// ee2020_020.EPL -->                                              1199   
+Red + Black Ink Splashes
+
+// ee2020_021.EPL -->                                              1200   
+(Unknown)
+
+// ee2020_022.EPL -->                                              1201   
+Ink Swirls
+
+// ee2020_023.EPL -->                                              1202   
+Screen Blur
+
+// ee2020_024.EPL -->                                              1203   
+Ink Swirls + Blotches
+
+// ee2020_025.EPL -->                                              1204   
+Screen Splatters + Motion Blur
+
+// ee2020_026.EPL -->                                              1205   
+Shadow Summon Explosion
+
+// ee2020_030.EPL -->                                              1206   
+Tornado with Paper
+
+// ee2020_031.EPL -->                                              1207   
+Bottom Blue Tint
+
+// ee2020_032.EPL -->                                              1208   
+Wind Burst
+
+// ee2020_033.EPL -->                                              1209   
+Big Smoke Ring
+
+// ee2020_034.EPL -->                                              1210   
+Grey Flash + Screen Pump
+
+// ee2020_040.EPL -->                                              1211   
+(Unknown)
+
+// ee2020_041.EPL -->                                              1212   
+Pink Smoke + Sparkle Cloud
+
+// ee2020_042.EPL -->                                              1213   
+(Unknown)
+
+// ee2020_043.EPL -->                                              1214   
+Pink Smoke + Sparkle Cloud
+
+// ee2020_044.EPL -->                                              1215   
+(Unknown)
+
+// ee2020_045.EPL -->                                              1216   
+Pink Smoke + Sparkle Cloud
+
+// ee2020_046.EPL -->                                              1217   
+(Unknown)
+
+// ee2020_047.EPL -->                                              1218   
+Pink Smoke + Sparkle Cloud
+
+// ee2020_048.EPL -->                                              1219   
+(Unknown)
+
+// ee2020_049.EPL -->                                              1220   
+(Unknown)
+
+// ee2020_050.EPL -->                                              1221   
+Glass Shatter
+
+// ee2020_052.EPL -->                                              1222   
+(Unknown)
+
+// ee2020_053.EPL -->                                              1223   
+Glass Shatter
+
+// ee2020_060.EPL -->                                              1224   
+Right Blue Tint
+
+// ee2020_061.EPL -->                                              1225   
+Bottom Blue Tint
+
+// ee2020_062.EPL -->                                              1226   
+Bottom Right Blue Tint
+
+// ee2020_063.EPL -->                                              1227   
+Right Blue Tint
+
+// ee2020_064.EPL -->                                              1228   
+Right Blue Tint
+
+// ee2020_065.EPL -->                                              1229   
+Bottom Blue Tint
+
+// ee2020_066.EPL -->                                              1230   
+Bottom Blue Tint
+
+// ee2020_067.EPL -->                                              1231   
+Bottom Blue Tint
+
+// ee2020_068.EPL -->                                              1232   
+Pink Smoke + Sparkle Cloud
+
+// ee2020_069.EPL -->                                              1233   
+Pink Smoke + Sparkle Cloud
+
+// ee2020_070.EPL -->                                              1234   
+Vignette with Shards
+
+// ee2020_081.EPL -->                                              1235   
+White Glow
+
+// ee2020_082.EPL -->                                              1236   
+Faint White Glow
+
+// ee2020_085.EPL -->                                              1237   
+(Unknown)
+
+// ee2020_086.EPL -->                                              1238   
+(Unknown)
+
+// ee2020_087.EPL -->                                              1239   
+(Unknown)
+
+// ee2020_088.EPL -->                                              1240   
+(Unknown)
+
+// ee2020_089.EPL -->                                              1241   
+(Unknown)
+
+// ee2020_090.EPL -->                                              1242   
+(Unknown)
+
+// ee2020_093.EPL -->                                              1243   
+Spotlight
+
+// ee2020_094.EPL -->                                              1244   
+Spotlight
+
+// ee2020_095.EPL -->                                              1245   
+Faint Spotlight
+
+// ee2020_096.EPL -->                                              1246   
+Spotlight
+
+// ee2020_097.EPL -->                                              1247   
+Spotlight
+
+// ee2020_098.EPL -->                                              1248   
+Faint Spotlight
+
+// ee2020_099.EPL -->                                              1249   
+Faint Spotlight
+
+// ee2020_100.EPL -->                                              1250   
+Purple Spotlight
+
+// ee2020_101.EPL -->                                              1251   
+Top White Tint
+
+// ee2020_102.EPL -->                                              1252   
+Top White Tint
+
+// ee2020_103.EPL -->                                              1253   
+Bottom Dark Blue Tint
+
+// ee2020_110.EPL -->                                              1254   
+Lens Flare
+
+// ee2020_111.EPL -->                                              1255   
+Lens Flare
+
+// ee2020_115.EPL -->                                              1256   
+Lens Flare
+
+// ee2020_120.EPL -->                                              1257   
+Lens Flare
+
+// ee2020_121.EPL -->                                              1258   
+Lens Flare
+
+// ee2020_122.EPL -->                                              1259   
+Lens Flare
+
+// ee2020_123.EPL -->                                              1260   
+Lens Flare
+
+// ee2020_124.EPL -->                                              1261   
+(Crashes P5)
+
+// ee2020_130.EPL -->                                              1262   
+Lens Flare
+
+// ee2020_140.EPL -->                                              1263   
+Vignette
+
+// ee2020_150.EPL -->                                              1264   
+(Unknown)
+
+// ee2020_151.EPL -->                                              1265   
+(Unknown)
+
+// ee2030_000.EPL -->                                              1266   
+Green Ink Spurt
+
+// ee2030_001.EPL -->                                              1267   
+Green Ink Pool
+
+// ee2030_002.EPL -->                                              1268   
+Green Ink Pool
+
+// ee2030_003.EPL -->                                              1269   
+Green Shadow Summon Loop
+
+// ee2030_004.EPL -->                                              1270   
+Green Ink Pool
+
+// ee2030_005.EPL -->                                              1271   
+Green Ink Pool
+
+// ee2030_012.EPL -->                                              1272   
+Blue & Red Lightning
+
+// ee2030_013.EPL -->                                              1273   
+Pink Lightning
+
+// ee2030_016.EPL -->                                              1274   
+Orange & Purple Screen Flash
+
+// ee2030_020.EPL -->                                              1275   
+(Crashes P5)
+
+// ee2030_021.EPL -->                                              1276   
+(Crashes P5)
+
+// ee2030_022.EPL -->                                              1277   
+(Crashes P5)
+
+// ee2030_040.EPL -->                                              1278   
+Bottom Red Tint
+
+// ee2030_041.EPL -->                                              1279   
+Pink Smoke + Sparkle Cloud
+
+// ee2030_042.EPL -->                                              1280   
+Bottom Left Red Tint
+
+// ee2030_043.EPL -->                                              1281   
+Bottom Left Red Tint
+
+// ee2030_044.EPL -->                                              1282   
+Pink Smoke + Sparkle Cloud
+
+// ee2030_045.EPL -->                                              1283   
+Bottom Left Red Tint
+
+// ee2030_046.EPL -->                                              1284   
+Pink Smoke + Sparkle Cloud
+
+// ee2030_047.EPL -->                                              1285   
+Slight Screen Blur
+
+// ee2030_048.EPL -->                                              1286   
+Bottom Left Red Tint
+
+// ee2030_049.EPL -->                                              1287   
+Slight Screen Blur
+
+// ee2030_050.EPL -->                                              1288   
+Vignette + Dark Purple Distortion
+
+// ee2030_051.EPL -->                                              1289   
+Slight Camera Shake
+
+// ee2030_070.EPL -->                                              1290   
+Ball of Wind
+
+// ee2030_080.EPL -->                                              1291   
+(Unknown)
+
+// ee2030_081.EPL -->                                              1292   
+Blue Flash
+
+// ee2030_090.EPL -->                                              1293   
+Raining Confetti
+
+// ee2030_091.EPL -->                                              1294   
+Fast Snow Storm
+
+// ee2030_092.EPL -->                                              1295   
+Slower Snow Storm
+
+// ee2030_093.EPL -->                                              1296   
+Confetti Explosion
+
+// ee2030_100.EPL -->                                              1297   
+Shadow Summon Explosion
+
+// ee2030_101.EPL -->                                              1298   
+Ink Splat Loop
+
+// ee637_010.EPL -->                                               1299  
+Black Circle
+
+// ee638_000.EPL -->                                               1300  
+Grey Smoke
+
+// ee639_000.EPL -->                                               1301  
+Life Drain
+
+// ee639_010.EPL -->                                               1302  
+Red Monochrome Screen
+
+// ee639_020.EPL -->                                               1303  
+Akechi Breakdown Costume Flash
+
+// ee640_000.EPL -->                                               1304  
+Camera Shake + Hit Effect
+
+// ee641_000.EPL -->                                               1305  
+White Distortion
+
+// ee642_000.EPL -->                                               1306  
+Flat Reddish Cartoon Smoke
+
+// ee642_001.EPL -->                                               1307  
+Flat Reddish Cartoon Smoke Puff
+
+// ee643_000.EPL -->                                               1308  
+Bullet Travel Effect
+
+// ee644_000.EPL -->                                               1309  
+Bullet Hit Effect
+
+// ee645_000.EPL -->                                               1310  
+Slow Sand Clouds
+
+// ee646_000.EPL -->                                               1311  
+2D Backdrop TV Light
+
+// ee646_001.EPL -->                                               1312  
+2D Backdrop TV Light
+
+// ee647_000.EPL -->                                               1313  
+Blood Puddle
+
+// ee647_001.EPL -->                                               1314  
+Cigar Smoke
+
+// ee648_000.EPL -->                                               1315  
+Wide Monitor Light
+
+// ee649_000.EPL -->                                               1316  
+Mona Nightmare Puddle
+
+// ee650_000.EPL -->                                               1317  
+Glowing Rainbow Orb
+
+// ee650_001.EPL -->                                               1318  
+(Unknown)
+
+// ee652_000.EPL -->                                               1319  
+Shadow Respawn
+
+// ee653_000.EPL -->                                               1320  
+Red Smoke + Sparkle Cloud
+
+// ee653_001.EPL -->                                               1321  
+(Unknown)
+
+// ee653_002.EPL -->                                               1322  
+Small Wind
+
+// ee653_003.EPL -->                                               1323  
+Small Wind
+
+// ee653_004.EPL -->                                               1324  
+Black Speed Lines
+
+// ee653_010.EPL -->                                               1325  
+Top Black Tint
+
+// ee654_000.EPL -->                                               1326  
+Anime Hit Effect
+
+// ee654_010.EPL -->                                               1327  
+Big Bullet Hit Effect
+
+// ee658_000.EPL -->                                               1328  
+Slow Explosion
+
+// ee658_001.EPL -->                                               1329  
+Light Camera Shake
+
+// ee658_010.EPL -->                                               1330  
+Blue + Purple Tint
+
+// ee658_020.EPL -->                                               1331  
+Plane of Stars
+
+// ee659_000.EPL -->                                               1332  
+Tiny Smoke Plume
+
+// ee661_000.EPL -->                                               1333  
+Awakening Chains + Fire
+
+// ee661_001.EPL -->                                               1334  
+Awakening Chains
+
+// ee661_002.EPL -->                                               1335  
+Awakening Small Wind Circle
+
+// ee661_003.EPL -->                                               1336  
+Awakening Back Fire Loop
+
+// ee661_004.EPL -->                                               1337  
+Awakening Floor Fire Loop
+
+// ee661_005.EPL -->                                               1338  
+Awakening Bottom Blue Tint 1
+
+// ee661_006.EPL -->                                               1339  
+Awakening Bottom Blue Tint 2
+
+// ee663_000.EPL -->                                               1340  
+(Unknown)
+
+// ee664_000.EPL -->                                               1341  
+(Unknown)
+
+// ee665_000.EPL -->                                               1342  
+Pink Shiny Hearts
+
+// ee666_010.EPL -->                                               1343  
+Anime Speed Lines
+
+// ee666_020.EPL -->                                               1344  
+Small Shadow Summon Loop
+
+// ee666_030.EPL -->                                               1345  
+Drool on Screen
+
+// ee666_040.EPL -->                                               1346  
+Drool Splash on Floor
+
+// ee666_050.EPL -->                                               1347  
+Drool Splash on Screen
+
+// ee666_060.EPL -->                                               1348  
+Shadow Summon Explosion
+
+// ee666_070.EPL -->                                               1349  
+Drool Splash on Screen
+
+// ee666_080.EPL -->                                               1350  
+Shadow Summon Loop
+
+// ee669_000.EPL -->                                               1351  
+Shadow Summon Explosion
+
+// ee669_010.EPL -->                                               1352  
+Shadow Aura Loop
+
+// ee669_020.EPL -->                                               1353  
+Locked Palace Treasure
+
+// ee669_030.EPL -->                                               1354  
+Persona Get
+
+// ee669_040.EPL -->                                               1355  
+Persona Fire + Chains Explosion
+
+// ee669_050.EPL -->                                               1356  
+Blue Smoke + Dust
+
+// ee671_000.EPL -->                                               1357  
+Small Blue Lens Flare
+
+// ee671_020.EPL -->                                               1358  
+Small Blue Lens Flare
+
+// ee671_030.EPL -->                                               1359  
+Small Blue Glow
+
+// ee672_000.EPL -->                                               1360  
+Flashing Red Tint Loop
+
+// ee673_000.EPL -->                                               1361  
+Workbench Tools
+
+// ee674_000.EPL -->                                               1362  
+Screen Distortion
+
+// ee675_000.EPL -->                                               1363  
+Futaba Pyramid Explosion
+
+// ee677_000.EPL -->                                               1364  
+Small Sand Dust Cloud
+
+// ee677_010.EPL -->                                               1365  
+Small Pink + Yellow Sparkles
+
+// ee677_020.EPL -->                                               1366  
+Medium Pink + Yellow Sparkles
+
+// ee677_030.EPL -->                                               1367  
+Tiny Pink + Yellow Sparkles
+
+// ee677_040.EPL -->                                               1368  
+Small Yellow Sparkles
+
+// ee677_050.EPL -->                                               1369  
+Pink + Yellow Sparkles
+
+// ee677_060.EPL -->                                               1370  
+Medium Pink + Yellow Sparkles
+
+// ee677_070.EPL -->                                               1371  
+Pink + Yellow Large Sparkles
+
+// ee677_080.EPL -->                                               1372  
+Small Pink + Yellow Sparkles
+
+// ee677_090.EPL -->                                               1373  
+Bright Pink + Yellow Sparkles
+
+// ee677_100.EPL -->                                               1374  
+Medium Pink + Yellow Sparkles
+
+// ee677_110.EPL -->                                               1375  
+Tiny Pink + Yellow Sparkles
+
+// ee677_200.EPL -->                                               1376  
+Tiny Yellow Sparkles
+
+// ee678_000.EPL -->                                               1377  
+(Unknown)
+
+// ee679_000.EPL -->                                               1378  
+Minor Camera Shake
+
+// ee679_010.EPL -->                                               1379  
+Medium Camera Shake
+
+// ee680_000.EPL -->                                               1380  
+Fire Explosion
+
+// ee681_000.EPL -->                                               1381  
+(Unknown)
+
+// ee681_010.EPL -->                                               1382  
+Cartoon Sweat Drops
+
+// ee682_000.EPL -->                                               1383  
+Bottom Right Blue Tint
+
+// ee683_000.EPL -->                                               1384  
+Joker's Hometown Blur
+
+// ee684_000.EPL -->                                               1385  
+Shadow Dissolve
+
+// ee686_000.EPL -->                                               1386  
+Small Sparkle Burst
+
+// ee687_000.EPL -->                                               1387  
+(Unknown)
+
+// ee688_000.EPL -->                                               1388  
+Futaba Terminal
+
+// ee688_010.EPL -->                                               1389  
+Futaba Terminal
+
+// ee688_020.EPL -->                                               1390  
+Futaba Terminal with no Screen
+
+// ee689_000.EPL -->                                               1391  
+Small Smoke Puff
+
+// ee689_010.EPL -->                                               1392  
+Small Smoke Puff Loop
+
+// ee690_000.EPL -->                                               1393  
+Minor Camera Shake
+
+// ee692_000.EPL -->                                               1394  
+Moving Cloud of Sand
+
+// ee692_010.EPL -->                                               1395  
+Rotating Cloud of Sand
+
+// ee692_020.EPL -->                                               1396  
+Screen Blur
+
+// ee692_030.EPL -->                                               1397  
+Screen Blur
+
+// ee692_040.EPL -->                                               1398  
+Moving Cloud of Sand
+
+// ee692_041.EPL -->                                               1399  
+Slow Moving Cloud of Sand
+
+// ee692_042.EPL -->                                               1400  
+Camera Shake
+
+// ee692_043.EPL -->                                               1401  
+Moving Cloud of Sand
+
+// ee692_050.EPL -->                                               1402  
+Sand Overlay
+
+// ee692_060.EPL -->                                               1403  
+Slow Moving Black Smoke
+
+// ee693_000.EPL -->                                               1404  
+Small Smoke Puff
+
+// ee693_010.EPL -->                                               1405  
+Small Smoke Puff
+
+// ee694_000.EPL -->                                               1406  
+Large Clouds of Smoke
+
+// ee694_001.EPL -->                                               1407  
+Large Clouds of Blue Smoke
+
+// ee694_002.EPL -->                                               1408  
+(Unknown)
+
+// ee694_010.EPL -->                                               1409  
+Small Blue Clouds of Smoke
+
+// ee694_020.EPL -->                                               1410  
+Watch Out For Falling Rocks
+
+// ee694_030.EPL -->                                               1411  
+Watch Out For Falling Rocks
+
+// ee695_000.EPL -->                                               1412  
+Small Fireworks Explosions
+
+// ee695_010.EPL -->                                               1413  
+Small Fireworks Explosions
+
+// ee695_020.EPL -->                                               1414  
+Golden Glow Orb
+
+// ee695_030.EPL -->                                               1415  
+Blue + Purple Tint
+
+// ee695_040.EPL -->                                               1416  
+Faint Green + Purple Orbs
+
+// ee696_000.EPL -->                                               1417  
+Clouds of Orange Smoke
+
+// ee696_001.EPL -->                                               1418  
+Swimming in Sand
+
+// ee696_002.EPL -->                                               1419  
+Swimming in Sand
+
+// ee696_004.EPL -->                                               1420  
+Swimming in Sand
+
+// ee696_006.EPL -->                                               1421  
+Swimming in Sand
+
+// ee696_010.EPL -->                                               1422  
+Puffs of Yellow Smoke
+
+// ee696_020.EPL -->                                               1423  
+(Unknown)
+
+// ee697_000.EPL -->                                               1424  
+(Unknown)
+
+// ee697_001.EPL -->                                               1425  
+(Unknown)
+
+// ee697_010.EPL -->                                               1426  
+(Unknown)
+
+// ee697_020.EPL -->                                               1427  
+Solid Red Puddle
+
+// ee697_030.EPL -->                                               1428  
+Solid Red Puddle
+
+// ee697_040.EPL -->                                               1429  
+Solid Red Puddle
+
+// ee698_000.EPL -->                                               1430  
+Pink Shadow Summon
+
+// ee700_010.EPL -->                                               1431  
+Glowing Blue Dots + Blue Glow
+
+// ee700_020.EPL -->                                               1432  
+Swirling Pearl Dot
+
+// ee700_030.EPL -->                                               1433  
+Blue Glow
+
+// ee700_040.EPL -->                                               1434  
+Swirl of Persona Fire
+
+// ee700_050.EPL -->                                               1435  
+Slow Floating Chains
+
+// ee700_060.EPL -->                                               1436  
+Floating Blue Dots
+
+// ee700_070.EPL -->                                               1437  
+Screen Pump
+
+// ee701_000.EPL -->                                               1438  
+Falling Sand Drop
+
+// ee702_000.EPL -->                                               1439  
+Distorted Red Puddle
+
+// ee702_010.EPL -->                                               1440  
+Pink Splash
+
+// ee703_000.EPL -->                                               1441  
+(Unknown)
+
+// ee704_000.EPL -->                                               1442  
+Large Clouds of Sand
+
+// ee704_010.EPL -->                                               1443  
+Large Clouds of Sand
+
+// ee706_000.EPL -->                                               1444  
+Large Blue Clouds of Smoke
+
+// ee706_001.EPL -->                                               1445  
+Large Clouds of Smoke
+
+// ee706_010.EPL -->                                               1446  
+Large Clouds of Smoke
+
+// ee706_020.EPL -->                                               1447  
+Small Puff of Smoke
+
+// ee706_030.EPL -->                                               1448  
+Watch Out For Falling Rocks
+
+// ee707_000.EPL -->                                               1449  
+Large Clouds of Smoke
+
+// ee707_001.EPL -->                                               1450  
+(Unknown)
+
+// ee707_010.EPL -->                                               1451  
+Small Plume of Red Smoke
+
+// ee708_000.EPL -->                                               1452  
+Large Plume of Red Smoke
+
+// ee708_001.EPL -->                                               1453  
+Large Clouds of Sand
+
+// ee708_010.EPL -->                                               1454  
+Small Plume of Sand
+
+// ee708_020.EPL -->                                               1455  
+Pyramid Collapse
+
+// ee708_030.EPL -->                                               1456  
+Falling Pebbles
+
+// ee708_040.EPL -->                                               1457  
+Falling Sand Drop
+
+// ee709_000.EPL -->                                               1458  
+Red Screen Slices
+
+// ee709_010.EPL -->                                               1459  
+  
+
+// ee712_000.EPL -->                                               1460  
+  
+
+// ee712_010.EPL -->                                               1461  
+  
+
+// ee712_011.EPL -->                                               1462  
+  
+
+// ee712_020.EPL -->                                               1463  
+  
+
+// ee713_000.EPL -->                                               1464  
+  
+
+// ee713_010.EPL -->                                               1465  
+  
+
+// ee713_020.EPL -->                                               1466  
+  
+
+// ee713_030.EPL -->                                               1467  
+  
+
+// ee713_040.EPL -->                                               1468  
+  
+
+// ee714_000.EPL -->                                               1469  
+  
+
+// ee715_000.EPL -->                                               1470  
+  
+
+// ee717_000.EPL -->                                               1471  
+  
+
+// ee717_010.EPL -->                                               1472  
+  
+
+// ee719_000.EPL -->                                               1473  
+  
+
+// ee719_001.EPL -->                                               1474  
+  
+
+// ee719_010.EPL -->                                               1475  
+  
+
+// ee720_000.EPL -->                                               1476  
+  
+
+// ee722_010.EPL -->                                               1477  
+  
+
+// ee722_020.EPL -->                                               1478  
+  
+
+// ee722_030.EPL -->                                               1479  
+  
+
+// ee722_040.EPL -->                                               1480  
+  
+
+// ee722_050.EPL -->                                               1481  
+  
+
+// ee722_060.EPL -->                                               1482  
+  
+
+// ee722_070.EPL -->                                               1483  
+  
+
+// ee722_080.EPL -->                                               1484  
+  
+
+// ee722_090.EPL -->                                               1485  
+  
+
+// ee722_100.EPL -->                                               1486  
+  
+
+// ee724_000.EPL -->                                               1487  
+  
+
+// ee727_000.EPL -->                                               1488  
+  
+
+// ee728_000.EPL -->                                               1489  
+  
+
+// ee729_000.EPL -->                                               1490  
+  
+
+// ee729_010.EPL -->                                               1491  
+  
+
+// ee760_010.EPL -->                                               1492  
+  
+
+// ee762_010.EPL -->                                               1493  
+  
+
+// ee762_701.EPL -->                                               1494  
+  
+
+// ee791_010.EPL -->                                               1495  
+  
+
+// ee900_001.EPL -->                                               1496  
+  
+
+// ee901_000.EPL -->                                               1497  
+  
+
+// ee999_000.EPL -->                                               1498  
+  
+
+// ee999_001.EPL -->                                               1499  
+  
